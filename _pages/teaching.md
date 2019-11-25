@@ -16,23 +16,17 @@ Many of these topics relate to those found under the atmospheric dynamics and oc
 
 Notes
 -====
-[Primitive equations]()
+[Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
+[Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
+[Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
+[Overview of the mean climate](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
+[Radiative Convective Equilibrium and the Greenhouse Effect](https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf)<br/>
+[Overturning Circulations (Hadley and Ferrel cells)](https://WestonAnderson.github.io/files/PDFs/Overturning Circulations.pdf)<br/>
+[Rossby Waves](https://WestonAnderson.github.io/files/PDFs/Rossby Waves.pdf)<br/>
+[The stratosphere (QBO and Brewer-Dobson)](https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf)<br/>
+[The El Niño Southern Oscillation](https://WestonAnderson.github.io/files/PDFs/ENSO dynamics.pdf)<br/>
+[Atlantic Climate (NAO and AMOC)](https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf)<br/>
 
-[Vorticity]()
-
-[Geostrophy and Thermal Wind]()
-
-[Overview of the mean climate]()
-
-[Radiative Convective Equilibrium and the Greenhouse Effect]()
-
-[Overturning Circulations (Hadley and Ferrel cells)]()
-
-[The stratosphere (QBO and Brewer-Dobson)]()
-
-[The El Niño Southern Oscillation]()
-
-[Atlantic Climate (NAO and AMOC)]()
 
 Papers
 -====
@@ -57,13 +51,15 @@ Below are a series of notes that I’ve developed as teaching aides relevant for
 
 Notes
 -=====
-[Overview of large scale atmospheric circulations]()
-[Primitive equations]()
-[Geostrophy and Thermal Wind]()
-[Greenhouse effect]()
-[Vorticity]()
-[Overturning Circulations (Hadley and Ferrel cells)]()
-[The stratosphere (QBO and Brewer-Dobson)]()
+[Overview of large scale atmospheric circulations](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
+[Greenhouse effect](https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf)<br/>
+[Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
+[Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
+[Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
+[Overturning Circulations (Hadley and Ferrel cells)](https://WestonAnderson.github.io/files/PDFs/Overturning Circulations.pdf)<br/>
+[Rossby Waves](https://WestonAnderson.github.io/files/PDFs/Rossby Waves.pdf)<br/>
+[The stratosphere (QBO and Brewer-Dobson)](https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf)<br/>
+
 
 Papers
 -=====
@@ -81,11 +77,13 @@ Ocean Dynamics
 Although ocean dynamics is not my main focus, it is inseparable from climate dynamics as a whole. The topics and papers below are therefore chosen from the perspective of a climate scientist
 
 Notes
-[Primitive equations]()
-[Geostrophy and Thermal Wind]()
-[Vorticity]()
-[The Wind-driven Circulation]()
-[Atlantic Climate (NAO and AMOC)]()
+-===
+[Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
+[Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
+[Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
+[The Wind-driven Circulation](https://WestonAnderson.github.io/files/PDFs/Ocean Dynamics.pdf)<br/>
+[Atlantic Climate (NAO and AMOC)](https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf)<br/>
+
 
 Papers
 -=====
@@ -99,9 +97,9 @@ As a climate scientist I am no expert on agronomy or plant physiology, but as a 
 
 Notes
 -=====
-[Plant Ecophysiology]()
-[Terrestrial Ecology]()
-[Global Agriculture]()
+[Plant Ecophysiology](https://WestonAnderson.github.io/files/PDFs/Plant Ecophysiology.pdf)<br/>
+Terrestrial Ecology<br/>
+Global Agriculture<br/>
 
 
 Statistics/Math
@@ -111,11 +109,11 @@ Climate science often relies on statistical and mathematical techniques to diagn
 
 Notes
 -=====
-[Basics (Statistical moments, least squares, auto-covariance)]()
-[Models and model fit (linear, nonlinear, nonparametric)]()
-[Fourier transforms and power spectra]()
-[Singular Value Decomposition (SVD) and Empirical Orthogonal Functions (EOFs)]()
-[Bootstrapping (conventional and phase randomization)]()
+Basics (Statistical moments, least squares, auto-covariance)<br/>
+Models and model fit (linear, nonlinear, nonparametric)<br/>
+Fourier transforms and power spectra<br/>
+Singular Value Decomposition (SVD) and Empirical Orthogonal Functions (EOFs)<br/>
+Bootstrapping (conventional and phase randomization)<br/>
 
 Papers
 -=====
