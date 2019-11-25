@@ -17,13 +17,21 @@ Many of these topics relate to those found under the atmospheric dynamics and oc
 Notes
 -====
 [Primitive equations]()
+
 [Vorticity]()
+
 [Geostrophy and Thermal Wind]()
+
 [Overview of the mean climate]()
+
 [Radiative Convective Equilibrium and the Greenhouse Effect]()
+
 [Overturning Circulations (Hadley and Ferrel cells)]()
+
 [The stratosphere (QBO and Brewer-Dobson)]()
+
 [The El Niño Southern Oscillation]()
+
 [Atlantic Climate (NAO and AMOC)]()
 
 Papers
