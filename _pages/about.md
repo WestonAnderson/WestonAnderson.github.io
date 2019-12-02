@@ -10,11 +10,11 @@ redirect_from:
 ---
 ---
 
-<p style="text-align: center;">Earth Institute Postdoctoral Research Fellow</p><br/>
-<p style="text-align: center;">The International Research Institute fro Climate and Society (IRI)</p><br/>
-<p style="text-align: center;">Columbia University </p><br/>
+<p style="text-align: center;">Earth Institute Postdoctoral Research Fellow</p>
+<p style="text-align: center;">The International Research Institute fro Climate and Society (IRI)</p>
+<p style="text-align: center;">Columbia University </p>
 
-<p style="text-align: center;">weston [at] iri.columbia.edu</p><br/>
+<p style="text-align: center;">weston [at] iri.columbia.edu</p>
 
 ---
 ---
