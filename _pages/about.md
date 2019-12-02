@@ -10,8 +10,6 @@ redirect_from:
 
 ---
 
-#### Weston Buckley Anderson
-
 Earth Institute Postdoctoral Research Fellow
 The International Research Institute fro Climate and Society (IRI)
 Columbia University
