@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weston Buckley Anderson"
+title: "<p style="text-align: center;">Weston Buckley Anderson</p>"
 excerpt: "Weston Buckley Anderson"
 author_profile: true
 redirect_from: 
@@ -10,11 +10,11 @@ redirect_from:
 ---
 ---
 
-<p style="text-align: center;">Earth Institute Postdoctoral Research Fellow<\p><br/>
-<p style="text-align: center;">The International Research Institute fro Climate and Society (IRI)<\p><br/>
-<p style="text-align: center;">Columbia University <\p><br/>
+<p style="text-align: center;">Earth Institute Postdoctoral Research Fellow</p><br/>
+<p style="text-align: center;">The International Research Institute fro Climate and Society (IRI)</p><br/>
+<p style="text-align: center;">Columbia University </p><br/>
 
-<p style="text-align: center;">weston [at] iri.columbia.edu<\p><br/>
+<p style="text-align: center;">weston [at] iri.columbia.edu</p><br/>
 
 ---
 ---
