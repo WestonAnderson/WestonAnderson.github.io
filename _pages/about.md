@@ -11,15 +11,11 @@ redirect_from:
 ---
 
 <p style='text-align: center;'>
-# Weston Buckley Anderson 
-  test<br/>
-  test<br/>
-  </p>
-<p style="text-align: center;">Earth Institute Postdoctoral Research Fellow</p>
-<p style="text-align: center;">The International Research Institute fro Climate and Society (IRI)</p>
-<p style="text-align: center;">Columbia University </p>
-
-<p style="text-align: center;">weston [at] iri.columbia.edu</p>
+#Weston Buckley Anderson <br/>
+Earth Institute Postdoctoral Research Fellow<br/>
+The International Research Institute fro Climate and Society (IRI)<br/>
+Columbia University <br/>
+weston [at] iri.columbia.edu</p>
 
 ---
 ---
