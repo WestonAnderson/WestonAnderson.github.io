@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Weston Buckley Anderson"
-excerpt: <p style="text-align: center;">"Weston Buckley Anderson</p>"
+excerpt: "<p style='text-align: center;'>Weston Buckley Anderson</p>"
 author_profile: true
 redirect_from: 
   - /about/
