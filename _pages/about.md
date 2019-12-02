@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "Home"
+title: "Weston Buckley Anderson"
+excerpt: "Weston Buckley Anderson"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,7 +26,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 ### Recent Research
 
-###### Synchronous crop failures and climate-forced production variability (pdf)
+###### Synchronous crop failures and climate-forced production variability [pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous.pdf), [SI pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous_SI.pdf)
 
 ![](https://WestonAnderson.github.io/images/Synchronous_failure.png)
 
@@ -34,7 +34,7 @@ Large-scale modes of climate variability can force widespread crop yield anomali
 
  
 
-###### Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture (pdf)
+###### Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
 
 ![](https://WestonAnderson.github.io/images/Transpacific.png)
 
@@ -44,7 +44,7 @@ Life cycles of the El Niño Southern Oscillation (ENSO) and its associated telec
 
  
 
-###### Life cycles of agriculturally-relevant ENSO teleconnections in North and South America (pdf)
+###### Life cycles of agriculturally-relevant ENSO teleconnections in North and South America [pdf](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
 
 ![](https://WestonAnderson.github.io/images/ENSO_tele.png)
 
@@ -52,7 +52,7 @@ The El Niño Southern Oscillation (ENSO) has proven to be a major driver of glob
 
 
 
-###### Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation (pdf)  AMENSO_ylds_Corr
+###### Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation [pdf](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)  AMENSO_ylds_Corr
 
 ![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)
 
@@ -60,7 +60,7 @@ In this analysis we show how globally coherent teleconnections from ENSO life-cy
 
 
 
-###### Towards an integrated soil moisture drought monitor for East Africa (poster, pdf)Screen Shot 2017-02-05 at 4.10.45 PM
+###### Towards an integrated soil moisture drought monitor for East Africa [pdf](https://WestonAnderson.github.io/files/Anderson2012drought.pdf)
 
 ![](https://WestonAnderson.github.io/images/drought_monitor.png)
 
