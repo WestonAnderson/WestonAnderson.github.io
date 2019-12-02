@@ -10,9 +10,9 @@ redirect_from:
 
 ---
 
-Earth Institute Postdoctoral Research Fellow
-The International Research Institute fro Climate and Society (IRI)
-Columbia University
+Earth Institute Postdoctoral Research Fellow <br/>
+The International Research Institute fro Climate and Society (IRI)<br/>
+Columbia University <br/>
 
 weston [at] iri.columbia.edu
 
