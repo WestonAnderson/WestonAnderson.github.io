@@ -26,7 +26,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 ###### Synchronous crop failures and climate-forced production variability [pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous.pdf), [SI pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous_SI.pdf)
 
-![](https://WestonAnderson.github.io/images/Synchronous_failure.png)
+![](https://WestonAnderson.github.io/images/SynchronousFailures.png)
 
 Large-scale modes of climate variability can force widespread crop yield anomalies, and are therefore often presented as a risk to food security. We find that the El Niño Southern Oscillation (ENSO), the Indian Ocean Dipole (IOD), tropical Atlantic variability (TAV) and the North Atlantic Oscillation (NAO) together account for 18%, 7% and 6% of globally aggregated maize, soybean and wheat production variability, respectively. The lower fractions of global-scale soybean and wheat production variability result from significant but offsetting climate-forced production anomalies. All climate modes are important in at least one region studied. In 1983, ENSO, the only mode capable of forcing globally-synchronous crop failures, was responsible for the largest synchronous crop failure in the modern historical record. Our results provide the basis for monitoring, and potentially predicting, simultaneous crop failures.
 
