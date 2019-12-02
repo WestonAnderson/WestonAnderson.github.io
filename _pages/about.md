@@ -22,27 +22,31 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 
 
-### Recent Research
+# Recent Research
 
-###### Synchronous crop failures and climate-forced production variability [pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous.pdf), [SI pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous_SI.pdf)
+### Synchronous crop failures and climate-forced production variability [pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous.pdf), [SI pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous_SI.pdf)
 
 ![](https://WestonAnderson.github.io/images/SynchronousFailures.png)
 
 Large-scale modes of climate variability can force widespread crop yield anomalies, and are therefore often presented as a risk to food security. We find that the El Niño Southern Oscillation (ENSO), the Indian Ocean Dipole (IOD), tropical Atlantic variability (TAV) and the North Atlantic Oscillation (NAO) together account for 18%, 7% and 6% of globally aggregated maize, soybean and wheat production variability, respectively. The lower fractions of global-scale soybean and wheat production variability result from significant but offsetting climate-forced production anomalies. All climate modes are important in at least one region studied. In 1983, ENSO, the only mode capable of forcing globally-synchronous crop failures, was responsible for the largest synchronous crop failure in the modern historical record. Our results provide the basis for monitoring, and potentially predicting, simultaneous crop failures.
 
  
+ 
+ 
 
-###### Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
+### Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
 
 ![](https://WestonAnderson.github.io/images/Transpacific.png)
 
 Life cycles of the El Niño Southern Oscillation (ENSO) and its associated teleconnections evolve over multiple years at a basin-wide scale. This analysis is the first attempt to characterize the structure of the risk posed by trans-Pacific ENSO teleconnections to wheat, maize and soybean production. We find that ENSO poses a correlated risk to crop production in the greater Pacific basin. Most ENSO teleconnections relevant for crop flowering seasons are the result of a single trans-Pacific circulation anomaly that forms in response to a tropical Matsuno-Gill-type response to SST forcing. Trans-Pacific ENSO teleconnections are often (but not always) offsetting between major producing regions in the Americas and those in China or Australia.
 
  
+ 
+ 
 
  
 
-###### Life cycles of agriculturally-relevant ENSO teleconnections in North and South America [pdf](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
+### Life cycles of agriculturally-relevant ENSO teleconnections in North and South America [pdf](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
 
 ![](https://WestonAnderson.github.io/images/ENSO_tele.png)
 
@@ -50,7 +54,9 @@ The El Niño Southern Oscillation (ENSO) has proven to be a major driver of glob
 
 
 
-###### Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation [pdf](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)  AMENSO_ylds_Corr
+
+
+### Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation [pdf](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)  AMENSO_ylds_Corr
 
 ![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)
 
@@ -58,7 +64,9 @@ In this analysis we show how globally coherent teleconnections from ENSO life-cy
 
 
 
-###### Towards an integrated soil moisture drought monitor for East Africa [pdf](https://WestonAnderson.github.io/files/Anderson2012drought.pdf)
+
+
+### Towards an integrated soil moisture drought monitor for East Africa [pdf](https://WestonAnderson.github.io/files/Anderson2012drought.pdf)
 
 ![](https://WestonAnderson.github.io/images/drought_monitor.png)
 
