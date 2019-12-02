@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Course Materials"
+permalink: /Course Materials/
 author_profile: true
 ---
-
-# Course Materials
 Below are links to a set of notes that I’ve developed based on my own courses and study. Although these notes are a work in progress, they represent materials that may be used for students in a classroom setting. I have also included a set of useful papers under each topic.
 
 
