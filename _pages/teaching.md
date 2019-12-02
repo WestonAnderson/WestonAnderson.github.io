@@ -10,7 +10,7 @@ Below are links to a set of notes that I’ve developed based on my own courses 
 ## Climate Dynamics
 Many of these topics relate to those found under the atmospheric dynamics and ocean dynamics sections, so for specifics on ocean or atmosphere systems, see those pages.
 
-#### Notes
+### Notes
 [Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
 [Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
 [Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
@@ -23,7 +23,7 @@ Many of these topics relate to those found under the atmospheric dynamics and oc
 [Atlantic Climate (NAO and AMOC)](https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf)<br/>
 
 
-#### Papers
+### Papers
 Robust Responses of the Hydrological Cycle to Global Warming (Held and Soden, 2006) – Held and Soden present an elegant argument as to why global patterns of P-E should intensify with global warming (‘wet get wetter’ hypothesis).  The basis of their solution is that, over the ocean, specific humidity scales with Clausius-Clapeyron (7% 1/K) while precipitation/evaporation scale with changes in the Bowen ratio and net radiation (1-2% 1/K). Relative humidity is assumed constant with increasing temperatures (a fine assumption over the ocean, not over land). And while a decrease in the strength of the Hadley cell does somewhat offset this increased moisture (and therefore energy) content of air parcels, it does not do so completely such that there is an increased transport of water vapor by the Hadley cell (increased moisture convergence in the tropics, divergence in the subtropics): the wet-get-wetter and dry-get-drier.
 
 A possible response of the atmospheric Hadley circulation to equatorial anomalies of ocean temperature (Bjerknes, 1966) – The classic paper in which Bjerknes describes the coupled ocean-atmosphere system that underpins the El Niño Southern Oscillation (ENSO). A key insight is how the mean state of the tropical Pacific ocean sets up the system to respond to zonal wind anomalies at the equator. A cessation of upwelling off the west coast of South America leads to warm sea surface temperatures, increased convection and thereby strengthening the westerly anomalies, which suppress upwelling.
@@ -41,7 +41,7 @@ Contribution of ocean overturning circulation to tropical rainfall peak in the N
 ## Atmospheric Dynamics
 Below are a series of notes that I’ve developed as teaching aides relevant for atmospheric sciences as well as a series of useful papers.
 
-#### Notes
+### Notes
 [Overview of large scale atmospheric circulations](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
 [Greenhouse effect](https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf)<br/>
 [Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
@@ -52,7 +52,7 @@ Below are a series of notes that I’ve developed as teaching aides relevant for
 [The stratosphere (QBO and Brewer-Dobson)](https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf)<br/>
 
 
-#### Papers
+### Papers
 Subtropical Anticyclones and Summer Monsoons (Rodwell and Hoskins, 2000) – Rodwell and Hoskins characterize lower troposphere subtropical circulations. In the summer they characterize continental monsoons and oceanic anticyclones. Wintertime circulation is dominated by the zonally averaged circulation interacting with orography.
 
 Nonlinear Axially Symmetric Circulations in a Nearly Inviscid Atmosphere (Held and Hou, 1980) – Held and Hou show how the annual-mean zonal-mean Hadley cell can be explained using conservation of momentum, thermal wind, and radiative convective equilibrium
@@ -64,7 +64,7 @@ A Diagnosis of the seasonally and longitudinally varying midlatitude circulation
 ## Ocean Dynamics
 Although ocean dynamics is not my main focus, it is inseparable from climate dynamics as a whole. The topics and papers below are therefore chosen from the perspective of a climate scientist
 
-#### Notes
+### Notes
 [Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
 [Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
 [Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
@@ -72,13 +72,13 @@ Although ocean dynamics is not my main focus, it is inseparable from climate dyn
 [Atlantic Climate (NAO and AMOC)](https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf)<br/>
 
 
-#### Papers
+### Papers
 Wind-driven currents in a baroclinic ocean; with application to the equatorial currents of the eastern Pacific – (Sverdup, 1947) – Here Sverdrup demonstrates how wind-driven currents lead to the mean-state ocean circulations such as the equatorial countercurrent, which flows eastward against the trade winds.
 
 ## Biogeoscience
 As a climate scientist I am no expert on agronomy or plant physiology, but as a scientist working on how climate variability affects food security it’s important to understand how the climate affects vegetation, and how vegetation may in turn influence the climate. Below are a brief set of notes covering topics such as plant-water relations, nutrient cycling, the influence of rising CO2  on vegetation and how large-scale dynamics may affect large-scale vegetation patterns.
 
-#### Notes
+### Notes
 [Plant Ecophysiology](https://WestonAnderson.github.io/files/PDFs/Plant Ecophysiology.pdf)<br/>
 Terrestrial Ecology<br/>
 Global Agriculture<br/>
@@ -87,14 +87,14 @@ Global Agriculture<br/>
 ## Statistics/Math
 Climate science often relies on statistical and mathematical techniques to diagnose changes in the climate system. These techniques become particularly relevant as the prevalence of large ensembles of model simulations increases. The topics covered below are in no way representative of the available tools used in data analysis, but rather a brief list of some of the most common tools used in climate science.
 
-#### Notes
+### Notes
 Basics (Statistical moments, least squares, auto-covariance)<br/>
 Models and model fit (linear, nonlinear, nonparametric)<br/>
 Fourier transforms and power spectra<br/>
 Singular Value Decomposition (SVD) and Empirical Orthogonal Functions (EOFs)<br/>
 Bootstrapping (conventional and phase randomization)<br/>
 
-#### Papers
+### Papers
 An Intercomparison of Methods for Finding Coupled Patterns in Climate Data (Bretherton et al., 1992) – Bretherton and his coauthors discuss the relative merits of different methods used to extract modes of variability from noisy data. They focus on principal component analysis (PCA), canonical correlation analysis (CCA), and singular value decomposition of a covariance matrix (SVD). This is a classic paper for understanding the tools that are often used in climate science and their potential limitations
 
 Detecting Causality in Complex Ecosystems (Sugihara et al., 2012) – Sugihara and colleagues outline what Lorenz attractors are, and how they can be used to make predictions in coupled, non-linear, chaotic systems. They include links to some videos explaining the material that are tremendously helpful
