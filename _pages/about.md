@@ -25,6 +25,16 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 # Recent Research
 
+### How relevant is the MJO to agriculture? [pdf](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Tele.pdf),
+![](https://WestonAnderson.github.io/images/MJO_ag_tele.png)
+
+While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. Here we analyze how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. The MJO significantly affects not only daily average precipitation and soil moisture, but also the probability of extreme precipitation, soil moisture and maximum temperatures during crop flowering seasons. That the MJO can simultaneously dry soils and raise maximum air temperatures may be particularly damaging to crops because without available soil water during times of heat stress, plants are unable to transpire to cool leaf-level temperatures as a means of avoiding long-term damage. As a result, even though teleconnections from the MJO last only a few days to a week, they likely affect crop growth. 
+
+<br/>
+<br/>
+ 
+
+
 ### Synchronous crop failures and climate-forced production variability [pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous.pdf), [SI pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous_SI.pdf)
 
 ![](https://WestonAnderson.github.io/images/SynchronousFailures.png)
