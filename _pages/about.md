@@ -25,10 +25,15 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 # Recent Research
 
-### How relevant is the MJO to agriculture? [pdf](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Tele.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)
+### How relevant is the MJO to agriculture? <br/>
+MJO teleconnections to crop growing seasons [PDF](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Tele.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)
+The MJO affects crop yields around the world [PDF prepring] (https://WestonAnderson.github.io/files/WBA_MJO_Ag_Yields.pdf)
+
 ![](https://WestonAnderson.github.io/images/MJO_ag_tele.png)
 
-While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. Here we analyze how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. The MJO significantly affects not only daily average precipitation and soil moisture, but also the probability of extreme precipitation, soil moisture and maximum temperatures during crop flowering seasons. That the MJO can simultaneously dry soils and raise maximum air temperatures may be particularly damaging to crops because without available soil water during times of heat stress, plants are unable to transpire to cool leaf-level temperatures as a means of avoiding long-term damage. As a result, even though teleconnections from the MJO last only a few days to a week, they likely affect crop growth. 
+  While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. We analyze how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. The MJO significantly affects not only daily average precipitation and soil moisture, but also the probability of extreme precipitation, soil moisture and maximum temperatures during crop flowering seasons.
+
+  We use crop models and observational yield statistics to assess whether the MJO affects maize yields. We find that the influence of the MJO is widespread, affecting crop yields throughout the tropics. In dry, hot environments the MJO can lead to crop failures by reducing precipitation, decreasing soil moisture, and increasing extreme heat, while in wetter, cooler environments – where water stress is less common – MJO-forced decreases in rainfall bring increases in solar radiation that benefits crop yields. 
 
 <br/>
 <br/>
