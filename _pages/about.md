@@ -26,8 +26,8 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 # Recent Research
 
 ### How relevant is the MJO to agriculture? <br/>
-MJO teleconnections to crop growing seasons [PDF](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Tele.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)
-The MJO affects crop yields around the world [PDF prepring] (https://WestonAnderson.github.io/files/WBA_MJO_Ag_Yields.pdf)
+MJO teleconnections to crop growing seasons [PDF](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Tele.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)<br/>
+The MJO affects crop yields around the world [PDF preprint](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Yields.pdf)
 
 ![](https://WestonAnderson.github.io/images/MJO_ag_tele.png)
 
