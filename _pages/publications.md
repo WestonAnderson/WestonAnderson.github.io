@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* denotes joint first co-authorship
+&ast; denotes joint first co-authorship
 
 In press or in preparation
 -=====
