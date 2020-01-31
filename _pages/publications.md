@@ -9,13 +9,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-&ast; denotes joint first co-authorship
+\* denotes joint first co-authorship
 
 In press or in preparation
 -=====
 Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle (in review)
 
-Bren d’Amour*, C. and Anderson, W.B.*: International trade and the stability of food supplies in the Global South (in review)
+Bren d’Amour, C* and Anderson, W.B.*: International trade and the stability of food supplies in the Global South (in review)
 
 Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A.: The Madden-Julian Oscillation affects crop yields around the world (in review)
 
