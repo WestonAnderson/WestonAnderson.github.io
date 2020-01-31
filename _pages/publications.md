@@ -13,21 +13,21 @@ author_profile: true
 
 In press or in preparation
 -=====
-Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle (submitted)
+Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle (in review)
 
-Cai, W, …Anderson, W.B….et al.: Impact of El Niño-Southern Oscillation on South America in a warming climate (submitted)
+Bren d’Amour*, C. and Anderson, W.B*: International trade and the stability of food supplies in the Global South (in review)
 
-Bren d’Amour*, C. and Anderson, W.B*: International trade and the stability of food supplies in the Global South (submitted)
-
-Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X.: Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons (submitted)
-
-Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A.: The Madden-Julian Oscillation affects observed and modeled crop yields (submitted)
+Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A.: The Madden-Julian Oscillation affects crop yields around the world (in review)
 
 Lesk, C* and Anderson, W.B.* Causes of trends in agro-climate extremes (in prep)
 
 
 Peer Reviewed
 -=====
+Cai, W, …Anderson, W.B….et al. (2020): Impact of El Niño-Southern Oscillation on South America in a warming climate (accepted, Nature Reviews Earth & Environment)
+
+Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics. 1-17, https://doi.org/10.1007/s00382-019-05109-0
+
 Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): Synchronous crop failures and climate-forced yield variability. Science Advances, 5 (7), eaaw1976.
 
 Anderson, W.B., Seager, R., Baethgen, W., and Cane, M (2018) : Trans-Pacific ENSO teleconnections pose a correlated risk to agriculture. Agriculture and Forest Meteorology, 262: 298-309, doi:10.1016/j.agrformet.2018.07.023
