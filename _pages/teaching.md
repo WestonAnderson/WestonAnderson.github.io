@@ -13,15 +13,15 @@ Many of these topics relate to those found under the atmospheric dynamics and oc
 <p align="center">
   <b>Notes</b><br>
 <a href="https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf">Primitive equations</a><br/>
-[Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
-[Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
-[Overview of the mean climate](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
-[Radiative Convective Equilibrium and the Greenhouse Effect](https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf)<br/>
-[Overturning Circulations (Hadley and Ferrel cells)](https://WestonAnderson.github.io/files/PDFs/Overturning Circulations.pdf)<br/>
-[Rossby Waves](https://WestonAnderson.github.io/files/PDFs/Rossby Waves.pdf)<br/>
-[The stratosphere (QBO and Brewer-Dobson)](https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf)<br/>
-[The El Niño Southern Oscillation](https://WestonAnderson.github.io/files/PDFs/ENSO dynamics.pdf)<br/>
-[Atlantic Climate (NAO and AMOC)](https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf)<br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf">Vorticity</a><br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf">Geostrophy and Thermal Wind</a><br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf">Overview of the mean climate</a><br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf">Radiative Convective Equilibrium and the Greenhouse Effect</a><br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/Overturning Circulations.pdf">Overturning Circulations (Hadley and Ferrel cells)</a><br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/Rossby Waves.pdf">Rossby Waves<br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf">The stratosphere (QBO and Brewer-Dobson)<br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/ENSO dynamics.pdf">The El Niño Southern Oscillation<br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf">Atlantic Climate (NAO and AMOC)<br/>
 </p>
 
 ### Papers
