@@ -9,19 +9,20 @@ Below are links to a set of notes that I’ve developed based on my own courses 
 
 ## Climate Dynamics
 Many of these topics relate to those found under the atmospheric dynamics and ocean dynamics sections, so for specifics on ocean or atmosphere systems, see those pages.
-  
-    ### Notes
-    [Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
-    [Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
-    [Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
-    [Overview of the mean climate](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
-    [Radiative Convective Equilibrium and the Greenhouse Effect](https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf)<br/>
-    [Overturning Circulations (Hadley and Ferrel cells)](https://WestonAnderson.github.io/files/PDFs/Overturning Circulations.pdf)<br/>
-    [Rossby Waves](https://WestonAnderson.github.io/files/PDFs/Rossby Waves.pdf)<br/>
-    [The stratosphere (QBO and Brewer-Dobson)](https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf)<br/>
-    [The El Niño Southern Oscillation](https://WestonAnderson.github.io/files/PDFs/ENSO dynamics.pdf)<br/>
-    [Atlantic Climate (NAO and AMOC)](https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf)<br/>
 
+<p align="center">
+### Notes
+[Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
+[Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
+[Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
+[Overview of the mean climate](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
+[Radiative Convective Equilibrium and the Greenhouse Effect](https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf)<br/>
+[Overturning Circulations (Hadley and Ferrel cells)](https://WestonAnderson.github.io/files/PDFs/Overturning Circulations.pdf)<br/>
+[Rossby Waves](https://WestonAnderson.github.io/files/PDFs/Rossby Waves.pdf)<br/>
+[The stratosphere (QBO and Brewer-Dobson)](https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf)<br/>
+[The El Niño Southern Oscillation](https://WestonAnderson.github.io/files/PDFs/ENSO dynamics.pdf)<br/>
+[Atlantic Climate (NAO and AMOC)](https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf)<br/>
+</p>
 
 ### Papers
 Robust Responses of the Hydrological Cycle to Global Warming (Held and Soden, 2006) – Held and Soden present an elegant argument as to why global patterns of P-E should intensify with global warming (‘wet get wetter’ hypothesis).  The basis of their solution is that, over the ocean, specific humidity scales with Clausius-Clapeyron (7% 1/K) while precipitation/evaporation scale with changes in the Bowen ratio and net radiation (1-2% 1/K). Relative humidity is assumed constant with increasing temperatures (a fine assumption over the ocean, not over land). And while a decrease in the strength of the Hadley cell does somewhat offset this increased moisture (and therefore energy) content of air parcels, it does not do so completely such that there is an increased transport of water vapor by the Hadley cell (increased moisture convergence in the tropics, divergence in the subtropics): the wet-get-wetter and dry-get-drier.
