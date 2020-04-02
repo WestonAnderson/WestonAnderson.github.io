@@ -12,7 +12,7 @@ Many of these topics relate to those found under the atmospheric dynamics and oc
 
 <p align="center">
   <b>Notes</b><br>
-<a href="Primitive equations">https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf</a><br/>
+<a href="https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf">Primitive equations</a><br/>
 [Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
 [Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
 [Overview of the mean climate](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
