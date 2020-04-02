@@ -15,15 +15,15 @@ In press or in preparation
 -=====
 Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle (in review)
 
-Bren d’Amour, C* and Anderson, W.B.*: International trade and the stability of food supplies in the Global South (in review)
-
-Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A.: The Madden-Julian Oscillation affects crop yields around the world (in review)
-
-Lesk, C* and Anderson, W.B.* Causes of trends in agro-climate extremes (in prep)
+Anderson, W.B.*, and Lesk, C*: Trends in concurrent heat and drought over global croplands (submitted)
 
 
 Peer Reviewed
 -=====
+Anderson, W.B*, and Bren d’Amour*: International trade and the stability of food supplies in the Global South, (accepted, Environmental Research Letters)
+
+Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A.: The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics (accepted, Geophysical Research Letters)
+
 Cai, W, …Anderson, W.B….et al. (2020): Impact of El Niño-Southern Oscillation on South America in a warming climate (accepted, Nature Reviews Earth & Environment)
 
 Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics. 1-17, https://doi.org/10.1007/s00382-019-05109-0
