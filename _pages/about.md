@@ -29,7 +29,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 MJO teleconnections to crop growing seasons [PDF](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Tele.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)<br/>
 The MJO affects crop yields around the world [PDF preprint](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Yields.pdf)
 
-![](https://WestonAnderson.github.io/images/MJO_ag_tele.png)
+![](https://WestonAnderson.github.io/images/MJO_yld_tele.png)
 
   While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. We analyze how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. The MJO significantly affects not only daily average precipitation and soil moisture, but also the probability of extreme precipitation, soil moisture and maximum temperatures during crop flowering seasons.
 
