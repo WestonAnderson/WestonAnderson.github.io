@@ -15,12 +15,12 @@ In press or in preparation
 -=====
 Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle (in review)
 
-Anderson, W.B.*, and Lesk, C*: Trends in concurrent heat and drought over global croplands (submitted)
+Anderson, W.B.\*, and Lesk, C\*: Trends in concurrent heat and drought over global croplands (submitted)
 
 
 Peer Reviewed
 -=====
-Anderson, W.B*, and Bren d’Amour*: International trade and the stability of food supplies in the Global South, (accepted, Environmental Research Letters)
+Anderson, W.B\*, and Bren d’Amour\*: International trade and the stability of food supplies in the Global South, (accepted, Environmental Research Letters)
 
 Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A.: The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics (accepted, Geophysical Research Letters)
 
