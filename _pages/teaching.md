@@ -11,8 +11,8 @@ Below are links to a set of notes that I’ve developed based on my own courses 
 Many of these topics relate to those found under the atmospheric dynamics and ocean dynamics sections, so for specifics on ocean or atmosphere systems, see those pages.
 
 <p align="center">
-### Notes
-[Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
+  <b>Notes</b><br>
+<a href="Primitive equations">https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf</a><br/>
 [Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
 [Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
 [Overview of the mean climate](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
