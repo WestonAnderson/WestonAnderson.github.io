@@ -42,16 +42,17 @@ Many of these topics relate to those found under the atmospheric dynamics and oc
 ## Atmospheric Dynamics
 Below are a series of notes that I’ve developed as teaching aides relevant for atmospheric sciences as well as a series of useful papers.
 
-### Notes
-[Overview of large scale atmospheric circulations](https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf)<br/>
-[Greenhouse effect](https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf)<br/>
-[Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
-[Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
-[Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
-[Overturning Circulations (Hadley and Ferrel cells)](https://WestonAnderson.github.io/files/PDFs/Overturning Circulations.pdf)<br/>
-[Rossby Waves](https://WestonAnderson.github.io/files/PDFs/Rossby Waves.pdf)<br/>
-[The stratosphere (QBO and Brewer-Dobson)](https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf)<br/>
-
+<p align="center">
+  <b>Notes</b><br>
+  <a href="https://WestonAnderson.github.io/files/PDFs/MeanClimate.pdf">Overview of large scale atmospheric circulations</a><br/>
+    <a href="https://WestonAnderson.github.io/files/PDFs/Radiation and the Greenhouse Effect.pdf">Greenhouse effect</a><br/>
+    <a href="https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf">Primitive equations</a><br/>
+      <a href="https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf">Vorticity</a><br/>
+      <a href="https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf">Geostrophy and Thermal Wind</a><br/>
+      <a href="https://WestonAnderson.github.io/files/PDFs/Overturning Circulations.pdf">Overturning Circulations (Hadley and Ferrel cells)</a><br/>
+      <a href="https://WestonAnderson.github.io/files/PDFs/Rossby Waves.pdf">Rossby Waves</a><br/>
+  <a href="https://WestonAnderson.github.io/files/PDFs/stratosphere dynamics.pdf">The stratosphere (QBO and Brewer-Dobson)</a><br/>
+</p>
 
 ### Papers
 Subtropical Anticyclones and Summer Monsoons (Rodwell and Hoskins, 2000) – Rodwell and Hoskins characterize lower troposphere subtropical circulations. In the summer they characterize continental monsoons and oceanic anticyclones. Wintertime circulation is dominated by the zonally averaged circulation interacting with orography.
@@ -65,12 +66,14 @@ A Diagnosis of the seasonally and longitudinally varying midlatitude circulation
 ## Ocean Dynamics
 Although ocean dynamics is not my main focus, it is inseparable from climate dynamics as a whole. The topics and papers below are therefore chosen from the perspective of a climate scientist
 
-### Notes
-[Primitive equations](https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf)<br/>
-[Vorticity](https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf)<br/>
-[Geostrophy and Thermal Wind](https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf)<br/>
-[The Wind-driven Circulation](https://WestonAnderson.github.io/files/PDFs/Ocean Dynamics.pdf)<br/>
-[Atlantic Climate (NAO and AMOC)](https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf)<br/>
+<p align="center">
+  <b>Notes</b><br>
+  <a href="https://WestonAnderson.github.io/files/PDFs/Primitive equations.pdf">Primitive equations</a><br/>
+  <a href="https://WestonAnderson.github.io/files/PDFs/Vorticity.pdf">Vorticity</a><br/>
+  <a href="https://WestonAnderson.github.io/files/PDFs/Geostrophy_and_ThermalWind.pdf">Geostrophy and Thermal Wind</a><br/>
+  <a href="https://WestonAnderson.github.io/files/PDFs/Ocean Dynamics.pdf">The Wind-driven Circulation</a><br/>
+  <a href="https://WestonAnderson.github.io/files/PDFs/Atlantic climate.pdf">Atlantic Climate (NAO and AMOC)</a><br/>  
+</p>
 
 
 ### Papers
@@ -79,21 +82,25 @@ Wind-driven currents in a baroclinic ocean; with application to the equatorial c
 ## Biogeoscience
 As a climate scientist I am no expert on agronomy or plant physiology, but as a scientist working on how climate variability affects food security it’s important to understand how the climate affects vegetation, and how vegetation may in turn influence the climate. Below are a brief set of notes covering topics such as plant-water relations, nutrient cycling, the influence of rising CO2  on vegetation and how large-scale dynamics may affect large-scale vegetation patterns.
 
-### Notes
-[Plant Ecophysiology](https://WestonAnderson.github.io/files/PDFs/Plant Ecophysiology.pdf)<br/>
+<p align="center">
+  <b>Notes</b><br>
+   <a href="https://WestonAnderson.github.io/files/PDFs/Plant Ecophysiology.pdf">Plant Ecophysiology</a><br/>
 Terrestrial Ecology<br/>
 Global Agriculture<br/>
+</p>
 
 
 ## Statistics/Math
 Climate science often relies on statistical and mathematical techniques to diagnose changes in the climate system. These techniques become particularly relevant as the prevalence of large ensembles of model simulations increases. The topics covered below are in no way representative of the available tools used in data analysis, but rather a brief list of some of the most common tools used in climate science.
 
-### Notes
+<p align="center">
+  <b>Notes</b><br>
 Basics (Statistical moments, least squares, auto-covariance)<br/>
 Models and model fit (linear, nonlinear, nonparametric)<br/>
 Fourier transforms and power spectra<br/>
 Singular Value Decomposition (SVD) and Empirical Orthogonal Functions (EOFs)<br/>
 Bootstrapping (conventional and phase randomization)<br/>
+</p>
 
 ### Papers
 An Intercomparison of Methods for Finding Coupled Patterns in Climate Data (Bretherton et al., 1992) – Bretherton and his coauthors discuss the relative merits of different methods used to extract modes of variability from noisy data. They focus on principal component analysis (PCA), canonical correlation analysis (CCA), and singular value decomposition of a covariance matrix (SVD). This is a classic paper for understanding the tools that are often used in climate science and their potential limitations
