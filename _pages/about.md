@@ -25,7 +25,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 # Recent Research
 
-### How relevant is the MJO to agriculture? <br/>
+### The Madden-Julian Oscillation and food security
 MJO teleconnections to crop growing seasons [PDF](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Tele.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)<br/>
 The MJO affects crop yields around the world [PDF preprint](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Yields.pdf)
 
@@ -39,7 +39,6 @@ The MJO affects crop yields around the world [PDF preprint](https://WestonAnders
 <br/>
  
 
-
 ### Synchronous crop failures and climate-forced production variability [pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous.pdf), [SI pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous_SI.pdf)
 
 ![](https://WestonAnderson.github.io/images/SynchronousFailures.png)
@@ -49,6 +48,18 @@ Large-scale modes of climate variability can force widespread crop yield anomali
 <br/>
 <br/>
  
+# The El Niño Southern Oscillation and agriculture
+Below is a collection of research projects focused on ENSO and agriculture
+
+### ENSO Review <br/>
+Climate impacts of the El Niño Southern Oscillation on South America [PDF](https://WestonAnderson.github.io/files/ensoSA.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)<br/>
+
+![](https://WestonAnderson.github.io/images/ensoSA.png)
+
+A review article on the varied climate impacts of ENSO on South America, and why those impacts are important to society.
+
+<br/>
+<br/>
 
 ### Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
 
@@ -79,6 +90,8 @@ In this analysis we show how globally coherent teleconnections from ENSO life-cy
 
 <br/>
 <br/>
+
+## Drought Monitoring
 
 ### Towards an integrated soil moisture drought monitor for East Africa [pdf](https://WestonAnderson.github.io/files/Anderson2012drought.pdf)
 
