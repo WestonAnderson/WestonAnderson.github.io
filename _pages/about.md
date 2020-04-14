@@ -52,7 +52,7 @@ Large-scale modes of climate variability can force widespread crop yield anomali
 Below is a collection of research projects focused on ENSO and agriculture
 
 ### ENSO Review <br/>
-Climate impacts of the El Niño Southern Oscillation on South America [PDF](https://WestonAnderson.github.io/files/ensoSA.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)<br/>
+Climate impacts of the El Niño Southern Oscillation on South America [PDF](https://WestonAnderson.github.io/files/enso_SA.pdf), [link](https://www.nature.com/articles/s43017-020-0040-3)<br/>
 
 ![](https://WestonAnderson.github.io/images/ensoSA.png)
 
