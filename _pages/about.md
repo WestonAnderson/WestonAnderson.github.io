@@ -56,7 +56,7 @@ Climate impacts of the El Niño Southern Oscillation on South America [PDF](http
 
 ![](https://WestonAnderson.github.io/images/ensoSA.png)
 
-A review article on the varied climate impacts of ENSO on South America, and why those impacts are important to society.
+This is review article on the varied climate impacts of ENSO on South America, and why those impacts are important to society. It was written by a team of exceptional South American scientists, who generously included myself as an early career scientist.
 
 <br/>
 <br/>
