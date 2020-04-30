@@ -52,7 +52,7 @@ Nkonya, E. and Anderson, W.B. (2014): Exploiting provisions of land economic pro
 Anderson, W.B., Zaitchik, B.F., Hain, C.R., Anderson, M.C., Yilmaz, M.T., Mecikalski, J., and Schultz, L. (2012) Towards an integrated soil moisture drought monitor for East Africa, Hydrol. Earth Syst. Sci., 16, 2893-2913, doi:10.5194/hess-16-2893-2012.
 
 
-Books chapters
+Book chapters
 -=====
 Walker, T., Ward, C., Torquebiau, R., Xie, H., Anderson, W.B, Perez, N., Ringler, C., You, L., Cenacchi, N., Hash, T. and Rattunde, F., (2016) Agriculture: More Water and Better Farming for Improved Food Security. In “Confronting Drought in Africa's Drylands: Opportunities for Enhancing Resilience”, pp.115-136. doi:10.1596/978-1-4648-0817-3_ch7
 
