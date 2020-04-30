@@ -16,22 +16,22 @@ In press or in preparation
 
 Anderson, W.B.\*, and Lesk, C\*: Trends in concurrent heat and drought over global croplands (submitted)
 
-Singh, J., Ashfaq, M., Skinner, C., Anderson, W.B., Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability 
+Singh, J., Ashfaq, M., Skinner, C., Anderson, W.B., Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability (submitted)
 
 
 Peer Reviewed
 -=====
-Jong, B.T, Ting, M., Seager, R., and Anderson, W.B.; ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle. Journal of Climate https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0701.1
+Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. (2020): ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle. Journal of Climate [link](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0701.1)
 
-Anderson, W.B\*, and Bren d’Amour\*: (2020) International trade and the stability of food supplies in the Global South, Environmental Research Letters https://iopscience.iop.org/article/10.1088/1748-9326/ab832f
+Anderson, W.B\*, and Bren d’Amour\*: (2020) International trade and the stability of food supplies in the Global South, Environmental Research Letters [link](https://iopscience.iop.org/article/10.1088/1748-9326/ab832f)
 
-Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A. (2020): The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics. Geophysical Research Letters https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087004
+Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A. (2020): The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics. Geophysical Research Letters [link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087004)
 
-Cai, W, …Anderson, W.B….et al. (2020): Impact of El Niño-Southern Oscillation on South America in a warming climate. Nature Reviews Earth & Environment https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere
+Cai, W, …Anderson, W.B….et al. (2020): Impact of El Niño-Southern Oscillation on South America in a warming climate. Nature Reviews Earth & Environment [link](https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere)
 
-Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics. 1-17, https://doi.org/10.1007/s00382-019-05109-0
+Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics. 1-17, [link](https://doi.org/10.1007/s00382-019-05109-0)
 
-Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): Synchronous crop failures and climate-forced yield variability. Science Advances, 5 (7), eaaw1976. https://advances.sciencemag.org/content/5/7/eaaw1976
+Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): Synchronous crop failures and climate-forced yield variability. Science Advances, 5 (7), eaaw1976. [link](https://advances.sciencemag.org/content/5/7/eaaw1976)
 
 Anderson, W.B., Seager, R., Baethgen, W., and Cane, M (2018) : Trans-Pacific ENSO teleconnections pose a correlated risk to agriculture. Agriculture and Forest Meteorology, 262: 298-309, doi:10.1016/j.agrformet.2018.07.023
 
