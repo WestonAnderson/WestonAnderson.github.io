@@ -23,7 +23,7 @@ Peer Reviewed
 -=====
 Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. (2020): ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle. Journal of Climate [link](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0701.1)
 
-Anderson, W.B\*, and Bren d’Amour\*: (2020) International trade and the stability of food supplies in the Global South, Environmental Research Letters [link](https://iopscience.iop.org/article/10.1088/1748-9326/ab832f)
+Anderson, W.B\*, and Bren d’Amour\*: (2020) International trade and the stability of food supplies in the Global South, Environmental Research Letters [[link]](https://iopscience.iop.org/article/10.1088/1748-9326/ab832f)
 
 Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A. (2020): The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics. Geophysical Research Letters [link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087004)
 
