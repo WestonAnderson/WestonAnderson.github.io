@@ -59,8 +59,10 @@ Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): [Synchron
 Below is a collection of research projects focused on ENSO and agriculture
 
 <br/>
-### ENSO Review: Climate impacts of the El Niño Southern Oscillation on South America
-![](https://WestonAnderson.github.io/images/ensoSA.png) <br/>
+
+### ENSO Review: Climate impacts of the El Niño Southern Oscillation on South America <br/>
+![](https://WestonAnderson.github.io/images/ensoSA.png)
+
 <br/>
 This is review article on the varied climate impacts of ENSO on South America, and why those impacts are important to society. It was written by a team of exceptional South American scientists, who generously included myself as an early career scientist.
 <br/>
@@ -71,7 +73,9 @@ Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillat
 
 ### The global-scale structure of the risk posed by ENSO to agriculture<br/>
 ![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)
+
 <br/>
+
 The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. ENSO and its associated teleconnections evolve over multiple years at a basin-wide scale. These analyses are the first attempt to characterize the structure of the risk posed by ENSO teleconnections to wheat, maize and soybean production.
 <br/>
 <br/>
