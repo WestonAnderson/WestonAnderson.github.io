@@ -26,9 +26,9 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 # Recent Research
 
 ### The Madden-Julian Oscillation and food security
-MJO teleconnections to crop growing seasons [PDF](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Tele.pdf), [link](https://link.springer.com/article/10.1007/s00382-019-05109-0)<br/>
-The MJO affects crop yields around the world [PDF preprint](https://WestonAnderson.github.io/files/WBA_MJO_Ag_Yields.pdf)
-
+Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A. (2020): [The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087004). Geophysical Research Letters
+<br/>
+Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): [Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics](https://doi.org/10.1007/s00382-019-05109-0). 1-17
 ![](https://WestonAnderson.github.io/images/MJO_yld_tele.png)
 
   While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. We analyze how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. The MJO significantly affects not only daily average precipitation and soil moisture, but also the probability of extreme precipitation, soil moisture and maximum temperatures during crop flowering seasons.
@@ -39,7 +39,9 @@ The MJO affects crop yields around the world [PDF preprint](https://WestonAnders
 <br/>
  
 
-### Synchronous crop failures and climate-forced production variability [pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous.pdf), [SI pdf](https://WestonAnderson.github.io/files/Anderson2019_synchronous_SI.pdf)
+### Synchronous crop failures and climate-forced production variability 
+
+Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): [Synchronous crop failures and climate-forced yield variability](https://advances.sciencemag.org/content/5/7/eaaw1976). Science Advances, 5 (7), eaaw1976. 
 
 ![](https://WestonAnderson.github.io/images/SynchronousFailures.png)
 
@@ -52,7 +54,9 @@ Large-scale modes of climate variability can force widespread crop yield anomali
 Below is a collection of research projects focused on ENSO and agriculture
 
 ### ENSO Review <br/>
-Climate impacts of the El Niño Southern Oscillation on South America [PDF](https://WestonAnderson.github.io/files/eons_SA.pdf), [link](https://www.nature.com/articles/s43017-020-0040-3)<br/>
+Climate impacts of the El Niño Southern Oscillation on South America 
+<br/>
+Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillation on South America in a warming climate](https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere). Nature Reviews Earth & Environment [PDF](https://WestonAnderson.github.io/files/eons_SA.pdf)<br/>
 
 ![](https://WestonAnderson.github.io/images/ensoSA.png)
 
@@ -64,13 +68,11 @@ This is review article on the varied climate impacts of ENSO on South America, a
 ### The global-scale structure of the risk posed by ENSO to agriculture<br/>
 The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. ENSO and its associated teleconnections evolve over multiple years at a basin-wide scale. These analyses are the first attempt to characterize the structure of the risk posed by ENSO teleconnections to wheat, maize and soybean production.
 
-Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
-
-
-Life cycles of agriculturally-relevant ENSO teleconnections in North and South America [pdf](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
-
-
-Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation [pdf](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M (2018) : Trans-Pacific ENSO teleconnections pose a correlated risk to agriculture. Agriculture and Forest Meteorology, 262: 298-309, doi:10.1016/j.agrformet.2018.07.023 [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
+<br/>
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2016): Life-cycles of agriculturally relevant ENSO teleconnections in North and South America. Int. J. Climatol, doi:10.1002/joc.4916 [pdf](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
+<br/>
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2017): Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation. Agriculture and Forest Meteorology, 239, 151-165 [pdf](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)
 
 <!--![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)-->
 
