@@ -41,38 +41,42 @@ Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020):
 <br/>
 <br/>
  
-
+<p align="center"><b>The Madden-Julian Oscillation and food security</b><br></p>
 ### Synchronous crop failures and climate-forced production variability 
 
 
 ![](https://WestonAnderson.github.io/images/SynchronousFailures.png)
-Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): [Synchronous crop failures and climate-forced yield variability](https://advances.sciencemag.org/content/5/7/eaaw1976). Science Advances, 5 (7), eaaw1976. 
-<br/>
-<br/>
+
 Large-scale modes of climate variability can force widespread crop yield anomalies, and are therefore often presented as a risk to food security. We find that the El Niño Southern Oscillation (ENSO), the Indian Ocean Dipole (IOD), tropical Atlantic variability (TAV) and the North Atlantic Oscillation (NAO) together account for 18%, 7% and 6% of globally aggregated maize, soybean and wheat production variability, respectively. The lower fractions of global-scale soybean and wheat production variability result from significant but offsetting climate-forced production anomalies. All climate modes are important in at least one region studied. In 1983, ENSO, the only mode capable of forcing globally-synchronous crop failures, was responsible for the largest synchronous crop failure in the modern historical record. Our results provide the basis for monitoring, and potentially predicting, simultaneous crop failures.
+<br/>
+<br/>
+Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): [Synchronous crop failures and climate-forced yield variability](https://advances.sciencemag.org/content/5/7/eaaw1976). Science Advances, 5 (7), eaaw1976. 
 
 <br/>
 <br/>
- 
-# The El Niño Southern Oscillation and agriculture
+<p align="center"><b>The El Niño Southern Oscillation and agriculture</b><br></p>
 Below is a collection of research projects focused on ENSO and agriculture
 
 ### ENSO Review: Climate impacts of the El Niño Southern Oscillation on South America 
 <br/>
 
 ![](https://WestonAnderson.github.io/images/ensoSA.png)
-
-Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillation on South America in a warming climate](https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere). Nature Reviews Earth & Environment [PDF](https://WestonAnderson.github.io/files/eons_SA.pdf)<br/>
-<br/>
-<br/>
 This is review article on the varied climate impacts of ENSO on South America, and why those impacts are important to society. It was written by a team of exceptional South American scientists, who generously included myself as an early career scientist.
+<br/>
+<br/>
+Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillation on South America in a warming climate](https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere). Nature Reviews Earth & Environment [PDF](https://WestonAnderson.github.io/files/eons_SA.pdf)<br/>
+
+
 
 <br/>
 <br/>
 
 ### The global-scale structure of the risk posed by ENSO to agriculture<br/>
-The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. ENSO and its associated teleconnections evolve over multiple years at a basin-wide scale. These analyses are the first attempt to characterize the structure of the risk posed by ENSO teleconnections to wheat, maize and soybean production.
+
 ![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)
+The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. ENSO and its associated teleconnections evolve over multiple years at a basin-wide scale. These analyses are the first attempt to characterize the structure of the risk posed by ENSO teleconnections to wheat, maize and soybean production.
+<br/>
+<br/>
 Anderson, W.B., Seager, R., Baethgen, W., and Cane, M (2018) : Trans-Pacific ENSO teleconnections pose a correlated risk to agriculture. Agriculture and Forest Meteorology, 262: 298-309, doi:10.1016/j.agrformet.2018.07.023 [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
 <br/>
 <br/>
@@ -87,15 +91,15 @@ Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2017): Crop production v
 <br/>
 <br/>
 
-## Drought Monitoring
+<p align="center"><b>Drought Monitoring</b><br></p>
 
 ### Towards an integrated soil moisture drought monitor for East Africa [pdf](https://WestonAnderson.github.io/files/Anderson2012drought.pdf)
 
 ![](https://WestonAnderson.github.io/images/drought_monitor.png)
-Anderson, W.B., Zaitchik, B.F., Hain, C.R., Anderson, M.C., Yilmaz, M.T., Mecikalski, J., and Schultz, L. (2012) Towards an integrated soil moisture drought monitor for East Africa, Hydrol. Earth Syst. Sci., 16, 2893-2913, doi:10.5194/hess-16-2893-2012.
-<br/>
-<br/>
 
 Drought in East Africa is a recurring phenomenon with significant humanitarian impacts. Given the steep climatic gradients, topographic contrasts and general data scarcity that characterizes the region, there is a need for spatially distributed, remotely derived monitoring systems to inform national and international drought response. In this analysis we apply a suite of remote monitoring techniques to characterize the temporal and spatial evolution of the2010–2011 Horn of Africa drought.
+<br/>
+<br/>
+Anderson, W.B., Zaitchik, B.F., Hain, C.R., Anderson, M.C., Yilmaz, M.T., Mecikalski, J., and Schultz, L. (2012) Towards an integrated soil moisture drought monitor for East Africa, Hydrol. Earth Syst. Sci., 16, 2893-2913, doi:10.5194/hess-16-2893-2012.
 
  
