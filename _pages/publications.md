@@ -11,12 +11,14 @@ author_profile: true
 
 \* denotes joint first co-authorship
 
-In press or in preparation
+In press or submitted
 -=====
 
 Anderson, W.B.\*, and Lesk, C\*: Trends in concurrent heat and drought over global croplands (submitted)
 
 Singh, J., Ashfaq, M., Skinner, C., Anderson, W.B., Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability (submitted)
+
+Hernandez, J.N., Anderson, W., Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A.: Fostering interdisciplinary research careers to solve complex sustainability crises. (submitted)
 
 
 Peer Reviewed
