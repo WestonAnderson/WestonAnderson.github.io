@@ -23,7 +23,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 <br/><br/>
 
 
-# Recent Research
+<p align="center"><b> Recent Research</b><br/></p>
 
 ## The Madden-Julian Oscillation and food security
 
@@ -52,23 +52,23 @@ Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): [Synchron
 
 <br/>
 <br/>
-## The El Niño Southern Oscillation and agriculture
-Below is a collection of research projects focused on ENSO and agriculture
-<br/>
-### ENSO Review: Climate impacts of the El Niño Southern Oscillation on South America 
 
+## The El Niño Southern Oscillation and agriculture <br/>
+
+Below is a collection of research projects focused on ENSO and agriculture
+
+<br/>
+### ENSO Review: Climate impacts of the El Niño Southern Oscillation on South America <br/>
 ![](https://WestonAnderson.github.io/images/ensoSA.png)
 <br/>
 This is review article on the varied climate impacts of ENSO on South America, and why those impacts are important to society. It was written by a team of exceptional South American scientists, who generously included myself as an early career scientist.
 <br/>
 <br/>
 Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillation on South America in a warming climate](https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere). Nature Reviews Earth & Environment [PDF](https://WestonAnderson.github.io/files/eons_SA.pdf)<br/>
-
 <br/>
 <br/>
 
 ### The global-scale structure of the risk posed by ENSO to agriculture<br/>
-
 ![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)
 <br/>
 The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. ENSO and its associated teleconnections evolve over multiple years at a basin-wide scale. These analyses are the first attempt to characterize the structure of the risk posed by ENSO teleconnections to wheat, maize and soybean production.
@@ -84,7 +84,7 @@ Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2017): Crop production v
 <br/>
 <br/>
 
-## Drought Monitoring in East Africa
+## Drought Monitoring in East Africa<br/>
 
 ![](https://WestonAnderson.github.io/images/drought_monitor.png)
 <br/>
