@@ -12,7 +12,7 @@ redirect_from:
 
 <p style="text-align: center;"><b>Weston Buckley Anderson</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
-The International Research Institute fro Climate and Society (IRI)<br/>
+The International Research Institute for Climate and Society (IRI)<br/>
 Columbia University <br/>
 weston [at] iri.columbia.edu</p>
 
@@ -63,9 +63,9 @@ This is review article on the varied climate impacts of ENSO on South America, a
 
 ### Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
 
-![](https://WestonAnderson.github.io/images/Transpacific.png)
+     ![](https://WestonAnderson.github.io/images/Transpacific.png)
 
-Life cycles of the El Niño Southern Oscillation (ENSO) and its associated teleconnections evolve over multiple years at a basin-wide scale. This analysis is the first attempt to characterize the structure of the risk posed by trans-Pacific ENSO teleconnections to wheat, maize and soybean production. We find that ENSO poses a correlated risk to crop production in the greater Pacific basin. Most ENSO teleconnections relevant for crop flowering seasons are the result of a single trans-Pacific circulation anomaly that forms in response to a tropical Matsuno-Gill-type response to SST forcing. Trans-Pacific ENSO teleconnections are often (but not always) offsetting between major producing regions in the Americas and those in China or Australia.
+Life cycles of the El Niño Southern Oscillation (ENSO) and its associated teleconnections evolve over multiple years at a basin-wide scale. This analysis is the first attempt to characterize the structure of the risk posed by trans-Pacific ENSO teleconnections to wheat, maize and soybean production.
 
  
 <br/>
@@ -73,9 +73,7 @@ Life cycles of the El Niño Southern Oscillation (ENSO) and its associated telec
 
 ### Life cycles of agriculturally-relevant ENSO teleconnections in North and South America [pdf](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
 
-![](https://WestonAnderson.github.io/images/ENSO_tele.png)
-
-The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. However, the temperature and precipitation teleconnections attributable to ENSO are systematic, and therefore present an opportunity to improve planning at large scales. Here we analyze how multi-year ENSO life-cycles lead to correlated risks for major crop-producing countries in North and South America.
+The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. Here we analyze how multi-year ENSO life-cycles lead to correlated risks for major crop-producing countries in North and South America.
 
 
 <br/>
@@ -83,9 +81,9 @@ The El Niño Southern Oscillation (ENSO) has proven to be a major driver of glob
 
 ### Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation [pdf](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)  AMENSO_ylds_Corr
 
-![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)
+      ![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)
 
-In this analysis we show how globally coherent teleconnections from ENSO life-cycles lead to correlated crop production anomalies in North and South America. We estimate the magnitude of ENSO-induced Pan-American production anomalies and discuss how increasing crop harvesting frequency may increase Pan-American production variability, which we demonstrate has occurred in regions of Brazil that have shifted to a safrinha cropping cycle.
+In this analysis we show how globally coherent teleconnections from ENSO life-cycles lead to correlated crop production anomalies in North and South America. We estimate the magnitude of ENSO-induced Pan-American production anomalies and discuss how increasing crop harvesting frequency may increase Pan-American production variability.
 
 
 <br/>
@@ -95,7 +93,7 @@ In this analysis we show how globally coherent teleconnections from ENSO life-cy
 
 ### Towards an integrated soil moisture drought monitor for East Africa [pdf](https://WestonAnderson.github.io/files/Anderson2012drought.pdf)
 
-![](https://WestonAnderson.github.io/images/drought_monitor.png)
+      ![](https://WestonAnderson.github.io/images/drought_monitor.png)
 
 Drought in East Africa is a recurring phenomenon with significant humanitarian impacts. Given the steep climatic gradients, topographic contrasts and general data scarcity that characterizes the region, there is a need for spatially distributed, remotely derived monitoring systems to inform national and international drought response. In this analysis we apply a suite of remote monitoring techniques to characterize the temporal and spatial evolution of the2010–2011 Horn of Africa drought.
 
