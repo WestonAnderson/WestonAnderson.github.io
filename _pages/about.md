@@ -28,6 +28,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 ### The Madden-Julian Oscillation and food security
 Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A. (2020): [The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087004). Geophysical Research Letters
 <br/>
+<br/>
 Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): [Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics](https://doi.org/10.1007/s00382-019-05109-0). 1-17
 ![](https://WestonAnderson.github.io/images/MJO_yld_tele.png)
 
