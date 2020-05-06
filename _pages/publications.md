@@ -21,6 +21,7 @@ In press or in preparation
 
 Peer Reviewed
 -=====
+
 15. Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. (2020): [ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0701.1). Journal of Climate 
 
 14. Anderson, W.B\*, and Bren d’Amour\*: (2020) [International trade and the stability of food supplies in the Global South](https://iopscience.iop.org/article/10.1088/1748-9326/ab832f), Environmental Research Letters
@@ -54,6 +55,7 @@ Peer Reviewed
 
 Book chapters
 -=====
+
 4. Walker, T., Ward, C., Torquebiau, R., Xie, H., Anderson, W.B, Perez, N., Ringler, C., You, L., Cenacchi, N., Hash, T. and Rattunde, F., (2016) Agriculture: More Water and Better Farming for Improved Food Security. In “Confronting Drought in Africa's Drylands: Opportunities for Enhancing Resilience”, pp.115-136. doi:10.1596/978-1-4648-0817-3_ch7
 
 3. Nkonya, E., Anderson, W.B., Kato, E., Koo, J., Mirzabaev, A., von Braun, J., & Meyer, S. (2016). Global cost of land degradation. In Economics of Land Degradation and Improvement–A Global Assessment for Sustainable Development (pp. 117-165). Springer International Publishing.
@@ -64,6 +66,7 @@ Book chapters
 
 Other publications
 -=====
+
 3. Nielsen, T., Schünemann, F., McNulty, E., Zeller, M., Nkonya, E., Kato, E., Meyer, S., Anderson, W.B., Zhu, T., Queface, A., and Mapemba, L., (2015): The Food-Energy-Water Security Nexus: Definitions, Policies, and Methods in an Application to Malawi and Mozambique. IFPRI Discussion Paper 1480. doi: 10.2139/ssrn.2740663
 
 2. Nkonya, E., Srinivasan, R., Anderson, W.B, and Kato, E. (2014). Assessing the economic benefits of sustainable land management practices in Bhutan. IFPRI Discussion Paper 01361. doi:10.2139/ssrn.2483995
