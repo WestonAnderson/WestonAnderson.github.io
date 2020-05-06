@@ -25,6 +25,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 <br/>
 <p align="center"><b> Recent Research</b><br/></p>
 <br/><br/>
+
 ## The Madden-Julian Oscillation and food security
 
 ![](https://WestonAnderson.github.io/images/MJO_yld_tele.png)
