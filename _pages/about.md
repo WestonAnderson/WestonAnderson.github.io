@@ -10,7 +10,7 @@ redirect_from:
 ---
 ---
 
-<p style="text-align: center;"><b>Weston Buckley Anderson</b><br/>
+<p align="center"><b>Weston Buckley Anderson</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
 The International Research Institute for Climate and Society (IRI)<br/>
 Columbia University <br/>
@@ -28,19 +28,18 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 <p align="center"><b>The Madden-Julian Oscillation and food security</b><br></p>
 
 ![](https://WestonAnderson.github.io/images/MJO_yld_tele.png)
+
+  While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. We first estimate how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. We then use crop models and observational yield statistics to demonstrate that in dry, hot, environments the MJO can lead to crop failures by reducing precipitation, decreasing soil moisture, and increasing extreme heat. In wetter, cooler environments – where water stress is less common – MJO-forced decreases in rainfall bring increases in solar radiation that benefits crop yields. 
+<br/>
+<br/>
+ 
 Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A. (2020): [The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087004). Geophysical Research Letters
 <br/>
 <br/>
 Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): [Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics](https://doi.org/10.1007/s00382-019-05109-0). 1-17
 <br/>
 <br/>
-  While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. We analyze how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. The MJO significantly affects not only daily average precipitation and soil moisture, but also the probability of extreme precipitation, soil moisture and maximum temperatures during crop flowering seasons.
 
-  We use crop models and observational yield statistics to assess whether the MJO affects maize yields. We find that the influence of the MJO is widespread, affecting crop yields throughout the tropics. In dry, hot environments the MJO can lead to crop failures by reducing precipitation, decreasing soil moisture, and increasing extreme heat, while in wetter, cooler environments – where water stress is less common – MJO-forced decreases in rainfall bring increases in solar radiation that benefits crop yields. 
-
-<br/>
-<br/>
- 
 <p align="center"><b>The Madden-Julian Oscillation and food security</b><br></p>
 ### Synchronous crop failures and climate-forced production variability 
 
