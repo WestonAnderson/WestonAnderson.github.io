@@ -61,29 +61,18 @@ This is review article on the varied climate impacts of ENSO on South America, a
 <br/>
 <br/>
 
-### Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
+### The global-scale structure of the risk posed by ENSO to agriculture<br/>
+The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. ENSO and its associated teleconnections evolve over multiple years at a basin-wide scale. These analyses are the first attempt to characterize the structure of the risk posed by ENSO teleconnections to wheat, maize and soybean production.
 
-<!--![](https://WestonAnderson.github.io/images/Transpacific.png)-->
-
-Life cycles of the El Niño Southern Oscillation (ENSO) and its associated teleconnections evolve over multiple years at a basin-wide scale. This analysis is the first attempt to characterize the structure of the risk posed by trans-Pacific ENSO teleconnections to wheat, maize and soybean production.
-
- 
-<br/>
-<br/>
-
-### Life cycles of agriculturally-relevant ENSO teleconnections in North and South America [pdf](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
-
-The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. Here we analyze how multi-year ENSO life-cycles lead to correlated risks for major crop-producing countries in North and South America.
+Trans-Pacific ENSO teleconnections pose a correlated risk to global agriculture [pdf](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
 
 
-<br/>
-<br/>
+Life cycles of agriculturally-relevant ENSO teleconnections in North and South America [pdf](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
 
-### Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation [pdf](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)  AMENSO_ylds_Corr
+
+Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation [pdf](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)
 
 <!--![](https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png)-->
-
-In this analysis we show how globally coherent teleconnections from ENSO life-cycles lead to correlated crop production anomalies in North and South America. We estimate the magnitude of ENSO-induced Pan-American production anomalies and discuss how increasing crop harvesting frequency may increase Pan-American production variability.
 
 
 <br/>
