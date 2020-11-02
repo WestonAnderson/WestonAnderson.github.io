@@ -4,6 +4,15 @@ title: "Course Materials"
 permalink: /teaching/
 author_profile: true
 ---
+# Outreach
+
+## Climate-based creative writing prompt
+Below is an artists' rendition of a tidally-locked planet, you can also follow this link to a video describing the tidally-locked planet, and asking students to write about characters that would inhabit such a planet. The idea is to discuss how our climate could be different and to describe those environments in-depth. For college-level students, the artists rendition can be combined with the climate simulations of <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.3894/JAMES.2010.2.13">Merlis and Schnider (2010)</a> in an activity in which students describe the main climate-features of such a planet based on first-principles before discussing the solutions of Merlis and Schnider
+
+![](https://WestonAnderson.github.io/files/planet826.jpg)
+
+
+# Course Materials
 Below are links to a set of notes that I’ve developed based on my own courses and study. Although these notes are a work in progress, they represent materials that may be used for students in a classroom setting. I have also included a set of useful papers under each topic.
 
 
