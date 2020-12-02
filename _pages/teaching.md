@@ -4,13 +4,16 @@ title: "Course Materials"
 permalink: /teaching/
 author_profile: true
 ---
-# Outreach
+---
+---
 
-## Climate-based creative writing prompt
-Below is an artists' rendition of a tidally-locked planet, you can also follow <a href="https://www.youtube.com/watch?v=su18ZTLfcAM&feature=youtu.be">this link to a video describing the tidally-locked planet</a>, and asking K-6 students to write about characters that would inhabit such a planet. The idea is to discuss how our climate could be different and to describe those environments in-depth. For college-level students, the artists rendition can be combined with the first-principles understnading and the climate simulations of <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.3894/JAMES.2010.2.13">Merlis and Schnider (2010)</a> in an activity in which students are provided the constraints of negligible rotation and the location of insolation maximum, then based on first-principles students work in groups to describe the main climate-features of such a planet before coming back together as a class to discuss their solutions and those of Merlis and Schnider
+<p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
+Lecturer - Climate and Society Master's Program <br/>
+Columbia University <br/>
+weston [at] iri.columbia.edu</p>
 
-![](https://WestonAnderson.github.io/files/planet826.jpg)
-
+---
+---
 
 # Course Materials
 Below are links to a set of notes that I’ve developed based on my own courses and study. Although these notes are a work in progress, they represent materials that may be used for students in a classroom setting. I have also included a set of useful papers under each topic.
@@ -115,3 +118,13 @@ Bootstrapping (conventional and phase randomization)<br/>
 An Intercomparison of Methods for Finding Coupled Patterns in Climate Data (Bretherton et al., 1992) – Bretherton and his coauthors discuss the relative merits of different methods used to extract modes of variability from noisy data. They focus on principal component analysis (PCA), canonical correlation analysis (CCA), and singular value decomposition of a covariance matrix (SVD). This is a classic paper for understanding the tools that are often used in climate science and their potential limitations
 
 Detecting Causality in Complex Ecosystems (Sugihara et al., 2012) – Sugihara and colleagues outline what Lorenz attractors are, and how they can be used to make predictions in coupled, non-linear, chaotic systems. They include links to some videos explaining the material that are tremendously helpful
+
+
+# Outreach
+
+## Climate-based creative writing prompt
+Below is an artists' rendition of a tidally-locked planet, you can also follow <a href="https://www.youtube.com/watch?v=su18ZTLfcAM&feature=youtu.be">this link to a video describing the tidally-locked planet</a>, and asking K-6 students to write about characters that would inhabit such a planet. The idea is to discuss how our climate could be different and to describe those environments in-depth. For college-level students, the artists rendition can be combined with the first-principles understnading and the climate simulations of <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.3894/JAMES.2010.2.13">Merlis and Schnider (2010)</a> in an activity in which students are provided the constraints of negligible rotation and the location of insolation maximum, then based on first-principles students work in groups to describe the main climate-features of such a planet before coming back together as a class to discuss their solutions and those of Merlis and Schnider
+
+![](https://WestonAnderson.github.io/files/planet826.jpg)
+
+
