@@ -13,40 +13,40 @@ author_profile: true
 
 In press or submitted
 -=====
+Anderson, W., Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K.: Characterizing the effect of drought, conflict, and locusts on food security in Africa. (submitted)
 
 Anderson, W.B.\*, and Lesk, C\*: Trends in concurrent heat and drought over global croplands (submitted)
 
-Singh, J., Ashfaq, M., Skinner, C., Anderson, W.B., Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability (submitted)
-
 Hernandez, J.N., Anderson, W., Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A.: Fostering interdisciplinary research careers to solve complex sustainability crises. (submitted)
-
 
 Peer Reviewed
 -=====
 
-Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. (2020): [ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0701.1). Journal of Climate 
+Singh, J., Ashfaq, M., Skinner, C., Anderson, W.B., Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability (accepted, npj Climate and Atmospheric Science)
 
-Anderson, W.B\*, and Bren d’Amour\*: (2020) [International trade and the stability of food supplies in the Global South](https://iopscience.iop.org/article/10.1088/1748-9326/ab832f), Environmental Research Letters
+Jong, B.T, Ting, M., Seager, R., and Anderson, W.B. (2020): [ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0701.1). Journal of Climate [PDF](https://WestonAnderson.github.io/files/2020-Jong.pdf)
+
+Anderson, W.B\*, and Bren d’Amour\*: (2020) [International trade and the stability of food supplies in the Global South](https://iopscience.iop.org/article/10.1088/1748-9326/ab832f), Environmental Research Letters [PDF](https://WestonAnderson.github.io/files/2020_Bren_d’Amour+Anderson_ERL.pdf)
 
 Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A. (2020): [The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087004). Geophysical Research Letters
 
-Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillation on South America in a warming climate](https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere). Nature Reviews Earth & Environment 
+Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillation on South America in a warming climate](https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere). Nature Reviews Earth & Environment [PDF](https://WestonAnderson.github.io/files/2020-cai_ENSO_SA.pdf)
 
 Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): [Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics](https://doi.org/10.1007/s00382-019-05109-0). 1-17
 
 Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): [Synchronous crop failures and climate-forced yield variability](https://advances.sciencemag.org/content/5/7/eaaw1976). Science Advances, 5 (7), eaaw1976.
 
-Anderson, W.B., Seager, R., Baethgen, W., and Cane, M (2018) : Trans-Pacific ENSO teleconnections pose a correlated risk to agriculture. Agriculture and Forest Meteorology, 262: 298-309, doi:10.1016/j.agrformet.2018.07.023
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M (2018) : Trans-Pacific ENSO teleconnections pose a correlated risk to agriculture. Agriculture and Forest Meteorology, 262: 298-309, doi:10.1016/j.agrformet.2018.07.023 [PDF](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
 
 Xie, H, Perez, N, Anderson W.B., Ringler, C. and You, L. (2018): Impact of irrigation development strategies in Sub-Saharan African dryland on food security and import dependency in the region. Water International
 
-Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2017): Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation. Agriculture and Forest Meteorology, 239, 151-165
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2017): Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation. Agriculture and Forest Meteorology, 239, 151-165 [PDF](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)
 
-Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2016): Life-cycles of agriculturally relevant ENSO teleconnections in North and South America. Int. J. Climatol, doi:10.1002/joc.4916
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2016): Life-cycles of agriculturally relevant ENSO teleconnections in North and South America. Int. J. Climatol, doi:10.1002/joc.4916 [PDF](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
 
-Anderson, W.B., You, L., Wood, S., Wood-Sichra, U., Wu, W (2015): An analysis of methodological and spatial differences in global cropping systems models and maps. Glob. Ecol. and Biogeog. doi: 10.1111/geb.12243
+Anderson, W.B., You, L., Wood, S., Wood-Sichra, U., Wu, W (2015): An analysis of methodological and spatial differences in global cropping systems models and maps. Glob. Ecol. and Biogeog. doi: 10.1111/geb.12243 [PDF](https://WestonAnderson.github.io/files/Anderson2014maps.pdf)
 
-Li, Z., Liu, X., Anderson, W.B., Yang, P., Wu, W., Tang, H. and You, L. (2015): Chinese Rice Production Area Adaptations to Climate Changes, 1949–2010. Environmental Science & Technology, doi: 10.1021/es505624x
+Li, Z., Liu, X., Anderson, W.B., Yang, P., Wu, W., Tang, H. and You, L. (2015): Chinese Rice Production Area Adaptations to Climate Changes, 1949–2010. Environmental Science & Technology, doi: 10.1021/es505624x [PDF](https://WestonAnderson.github.io/files/Li2015Rice.pdf)
 
 Anderson, W.B., Guikema S., Zaitchik, B. and Pan, W. (2014): Methods for estimating population density in data-limited areas: evaluating regression and tree-based models in Peru. PLoS ONE 9(7): e100037. doi:10.1371/journal.pone.0100037
 
