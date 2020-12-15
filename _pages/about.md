@@ -9,11 +9,11 @@ redirect_from:
 ---
 ---
 ---
- <style>
-div {
-  background-image: url('https://WestonAnderson.github.io/images/websitebackground.JPG');
-}
-</style> 
+
+<body>
+  <img class="bg" src="'https://WestonAnderson.github.io/images/websitebackground.JPG'" />
+</body>
+
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
 The International Research Institute for Climate and Society (IRI)<br/>
