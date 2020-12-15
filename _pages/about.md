@@ -42,14 +42,14 @@ Anderson, W., Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., 
 While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. We first estimate how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. We then use crop models and observational yield statistics to demonstrate that in dry, hot, environments the MJO can lead to crop failures by reducing precipitation, decreasing soil moisture, and increasing extreme heat. In wetter, cooler environments – where water stress is less common – MJO-forced decreases in rainfall bring increases in solar radiation that benefits crop yields. 
 <br/>
 <br/>
- 
+<br/>
 Anderson, W.B., Han, E., Baethgen, W., Goddard, L., Muñoz, Á.G., and Robertson, A. (2020): [The Madden-Julian Oscillation affects maize yields throughout the tropics and subtropics](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087004). Geophysical Research Letters
 <br/>
 <br/>
 Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020): [Madden-Julian Oscillation (MJO) teleconnections to crop growing seasons. Climate Dynamics](https://doi.org/10.1007/s00382-019-05109-0). 1-17
 <br/>
 <br/>
-
+<br/>
 
 ## Synchronous crop failures and climate-forced production variability 
 
@@ -78,6 +78,8 @@ This is review article on the varied climate impacts of ENSO on South America, a
 <br/>
 <br/>
 Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillation on South America in a warming climate](https://www.nature.com/articles/s43017-020-0040-3?proof=trueHere). Nature Reviews Earth & Environment [PDF](https://WestonAnderson.github.io/files/eons_SA.pdf)<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
