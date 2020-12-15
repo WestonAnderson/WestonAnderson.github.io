@@ -10,11 +10,12 @@ redirect_from:
 ---
 ---
 
-body {
-  background-image: url('https://WestonAnderson.github.io/images/websitebackground.JPG');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+
+![]('https://WestonAnderson.github.io/images/websitebackground.JPG).bg {
+  position: absolute;
+    left: 0;
+    top: 0;
+  width: 100%;
 }
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
