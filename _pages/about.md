@@ -11,16 +11,15 @@ redirect_from:
 ---
 ---
 ---
+
+<body>
+  <img class="bg" src="https://WestonAnderson.github.io/images/websitebackground.JPG" />
 .bg {
   position: absolute;
     left: 0;
     top: 0;
   width: 100%;
 }
-
-
-<body>
-  <img class="bg" src="https://WestonAnderson.github.io/images/websitebackground.JPG" />
 </body>
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
