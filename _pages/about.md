@@ -6,13 +6,11 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
-
-  
 ---
 ---
 ---
 
-<img src="https://WestonAnderson.github.io/images/websitebackground.JPG" width:"100%"/>
+<img src="https://WestonAnderson.github.io/images/websitebackground.JPG" width:100/>
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
