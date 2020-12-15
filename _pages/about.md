@@ -54,7 +54,7 @@ Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020):
 ## Synchronous crop failures and climate-forced production variability 
 
 
-<img src="https://WestonAnderson.github.io/images/SynchronousFailures.png" alt="ENSO" title="ENSO" width="500" height="500"  style="float: left;"/>
+<img src="https://WestonAnderson.github.io/images/SynchronousFailures.png" alt="ENSO" title="ENSO" width="500" height="400"  style="float: left;"/>
 
 Large-scale modes of climate variability can force widespread crop yield anomalies, and are therefore often presented as a risk to food security. We find that the El Niño Southern Oscillation (ENSO), the Indian Ocean Dipole (IOD), tropical Atlantic variability (TAV) and the North Atlantic Oscillation (NAO) together account for 18%, 7% and 6% of globally aggregated maize, soybean and wheat production variability, respectively. The lower fractions of global-scale soybean and wheat production variability result from significant but offsetting climate-forced production anomalies. All climate modes are important in at least one region studied. In 1983, ENSO, the only mode capable of forcing globally-synchronous crop failures, was responsible for the largest synchronous crop failure in the modern historical record. Our results provide the basis for monitoring, and potentially predicting, simultaneous crop failures.
 <br/>
@@ -72,7 +72,7 @@ Below is a collection of research projects focused on ENSO and agriculture
 
 ### ENSO Review: Climate impacts of the El Niño Southern Oscillation on South America <br/>
 
-<img src="https://WestonAnderson.github.io/images/ensoSA.png" alt="ENSO" title="ENSOa" width="500" height="500"  style="float: left;"/>
+<img src="https://WestonAnderson.github.io/images/ensoSA.png" alt="ENSO" title="ENSOa" width="500" height="400"  style="float: left;"/>
 
 This is review article on the varied climate impacts of ENSO on South America, and why those impacts are important to society. It was written by a team of exceptional South American scientists, who generously included myself as an early career scientist.
 <br/>
@@ -82,7 +82,7 @@ Cai, W, …Anderson, W.B….et al. (2020): [Impact of El Niño-Southern Oscillat
 <br/>
 
 ### The global-scale structure of the risk posed by ENSO to agriculture<br/>
-<img src="https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png" alt="ENSO" title="ENSO" width="500" height="500"  style="float: left;"/>
+<img src="https://WestonAnderson.github.io/images/AMENSO_ylds_Corr-768x576.png" alt="ENSO" title="ENSO" width="500" height="400"  style="float: left;"/>
 
 The El Niño Southern Oscillation (ENSO) has proven to be a major driver of global crop yield variability, at times responsible for simultaneous crop failures in multiple countries. ENSO and its associated teleconnections evolve over multiple years at a basin-wide scale. These analyses are the first attempt to characterize the structure of the risk posed by ENSO teleconnections to wheat, maize and soybean production.
 <br/>
