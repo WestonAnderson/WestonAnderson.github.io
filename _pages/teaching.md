@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
-Lecturer - Climate and Society Master's Program <br/>
+Faculty - Climate and Society Master's Program <br/>
 Columbia University <br/>
 weston [at] iri.columbia.edu</p>
 
