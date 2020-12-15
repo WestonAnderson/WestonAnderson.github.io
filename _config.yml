@@ -208,7 +208,7 @@ defaults:
       type: pages
       style: dark
     values:
-      layout: single
+      layout: splash
       author_profile: false
   # _teaching
   - scope:
