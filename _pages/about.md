@@ -12,14 +12,14 @@ redirect_from:
 ---
 ---
 
-<body>
-  <img class="bg" src='https://WestonAnderson.github.io/images/websitebackground.JPG' >
-</body>.bg {
+
+![](https://WestonAnderson.github.io/images/websitebackground.JPG#bg)
+img[src*="#bg"] {
   position: absolute;
     left: 0;
     top: 0;
   width: 100%;
-}/
+}
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
@@ -38,7 +38,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 <br/><br/>
 
 
-![](https://WestonAnderson.github.io/files/IPC.png#thumbnail}
+![](https://WestonAnderson.github.io/files/IPC.png#thumbnail)
 img[src*="#thumbnail"] {
    width:150px;
    height:100px;
