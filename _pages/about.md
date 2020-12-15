@@ -10,14 +10,10 @@ redirect_from:
 ---
 ---
 
-.fstPage  {
-    background-image:url("https://WestonAnderson.github.io/images/websitebackground.JPG");
-    /*background-color: lightgray;*/
-    height: 700px;
-    width:100%;
-    background-size:cover;
-}
-<div class="fstPage"></div>
+
+
+**![](https://WestonAnderson.github.io/images/websitebackground.JPG)**
+*![](https://WestonAnderson.github.io/images/websitebackground.JPG)*
 
 <p 
 align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
