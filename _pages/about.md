@@ -10,12 +10,6 @@ redirect_from:
 ---
 ---
 
-<style>
-body {
-  background-image: url("https://WestonAnderson.github.io/images/websitebackground.JPG");
-}
-</style> 
-
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
 The International Research Institute for Climate and Society (IRI)<br/>
@@ -26,6 +20,8 @@ weston [at] iri.columbia.edu</p>
 ---
 <br/>
 
+<img src="https://WestonAnderson.github.io/files/IPC.png"/>
+
    
 I’m an agroclimatologist studying the dynamics of climate variability and its relation to food security using reanalysis products, remote  sensing observations and model simulations. I’ve recently been working on how global-scale modes of climate variability pose a risk to major agricultural production regions. I am currently an [Earth Institute Fellow](earth.columbia.edu/articles/view/58#Anderson) working on climate and food security with [Lisa Goddard](https://iri.columbia.edu/contact/staff-directory/lisa-goddard/) and  [Walter Baethgen](https://iri.columbia.edu/contact/staff-directory/walter-baethgen/) at the [IRI](https://iri.columbia.edu/). For more information on my professional activities and my research see my Publications page, [Google Scholar](https://scholar.google.com/citations?user=RP8M1g8AAAAJ&hl=en), or see my [CV](https://WestonAnderson.github.io/files/Weston_Buckley_Anderson_CV_2020.pdf)
 <br/><br/>
@@ -35,7 +31,7 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 <br/><br/>
 
 
-<img src="https://WestonAnderson.github.io/files/IPC.png" alt="icon" style="float: left; width:1000; height:400" />
+<img src="https://WestonAnderson.github.io/files/IPC.png" alt="icon" style="float: left; width:500; height:200" />
 
   
 Conflict, drought, and locusts have been leading concerns for African food security in recent years, but the relative importance and spatiotemporal scales of crises resulting from each hazard is poorly characterized. Here we use continuous, subnational data from Sub-Saharan Africa to characterize how food crises differ according to livelihood strategy in response to each hazard. We find that when exposed to drought, pastoralists experienced more widespread, severe, and long-lasting food crises compared to those in agricultural zones. From 2009-2013 drought was the primary trigger of food security crises in all non-riverine zones; after 2013 conflict-related food security crises become prevalent. The few confirmed famines coincided with both conflict and drought. 
@@ -47,7 +43,7 @@ Anderson, W., Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., 
 
 ## The Madden-Julian Oscillation and food security
 
-<img src="https://WestonAnderson.github.io/images/MJO_yld_tele.png" alt="icon" style="float: left; width:400; height:400" />
+<img src="https://WestonAnderson.github.io/images/MJO_yld_tele.png" alt="icon" style="float: left; width:100; height:100" />
 <br/>
   While many Madden-Julian Oscillation (MJO) teleconnections are well documented, the significance of these teleconnections to agriculture is not well understood. We first estimate how the MJO affects the climate during crop flowering seasons, when crops are particularly vulnerable to abiotic stress. We then use crop models and observational yield statistics to demonstrate that in dry, hot, environments the MJO can lead to crop failures by reducing precipitation, decreasing soil moisture, and increasing extreme heat. In wetter, cooler environments – where water stress is less common – MJO-forced decreases in rainfall bring increases in solar radiation that benefits crop yields. 
 <br/>
