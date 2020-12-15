@@ -12,11 +12,11 @@ redirect_from:
 ---
 ---
 
-<img src="https://WestonAnderson.github.io/images/websitebackground.JPG";
-  position: absolute;
-    left: 0;
-    top: 0;
-  width: 100%;
+<img src="https://WestonAnderson.github.io/images/websitebackground.JPG"
+  position: absolute
+    left: 0
+    top: 0
+  width: 100%
 />
 
 
