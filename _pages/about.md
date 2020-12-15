@@ -33,9 +33,8 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 ## Food security crises in Africa
 
-<img src="https://WestonAnderson.github.io/files/IPC.png" width="300" height="100" />
+<img src="https://WestonAnderson.github.io/files/IPC.png" width="3000" height="1000" />
 
-<br/>
 Conflict, drought, and locusts have been leading concerns for African food security in recent years, but the relative importance and spatiotemporal scales of crises resulting from each hazard is poorly characterized. Here we use continuous, subnational data from Sub-Saharan Africa to characterize how food crises differ according to livelihood strategy in response to each hazard. We find that when exposed to drought, pastoralists experienced more widespread, severe, and long-lasting food crises compared to those in agricultural zones. From 2009-2013 drought was the primary trigger of food security crises in all non-riverine zones; after 2013 conflict-related food security crises become prevalent. The few confirmed famines coincided with both conflict and drought. 
 <br/>
 <br/>
