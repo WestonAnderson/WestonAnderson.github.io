@@ -6,6 +6,14 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+.bg {
+  position: absolute;
+    left: 0;
+    top: 0;
+  width: 100%;
+}
+
+  
 ---
 ---
 ---
