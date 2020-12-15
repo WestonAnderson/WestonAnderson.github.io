@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 <body>
-  <img class="bg" src="https://WestonAnderson.github.io/images/websitebackground.JPG" 
+  <img class="bg" src="'https://WestonAnderson.github.io/images/websitebackground.JPG'" 
 .bg {
   position: absolute;
     left: 0;
