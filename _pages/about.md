@@ -11,11 +11,11 @@ redirect_from:
 ---
 
 
-<style>
+<body>
 div {
   background-image: url('https://WestonAnderson.github.io/images/websitebackground.JPG');
 }
-</style> 
+</body> 
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
