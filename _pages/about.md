@@ -10,9 +10,17 @@ redirect_from:
 ---
 ---
 
-<p><img class="bg" src="https://WestonAnderson.github.io/images/websitebackground.JPG"/>
+.fstPage  {
+    background-image:url("https://WestonAnderson.github.io/images/websitebackground.JPG");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
+<div class="fstPage"></div>
 
-<p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
+<p 
+align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
 The International Research Institute for Climate and Society (IRI)<br/>
 Columbia University <br/>
