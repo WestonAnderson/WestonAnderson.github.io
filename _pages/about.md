@@ -11,7 +11,9 @@ redirect_from:
 ---
 
 
-<img class="bg" src="https://WestonAnderson.github.io/images/websitebackground.JPG"/>
+<body>
+  <img class="bg" src="https://WestonAnderson.github.io/images/websitebackground.JPG" />
+</body>
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
 Earth Institute Postdoctoral Research Fellow<br/>
