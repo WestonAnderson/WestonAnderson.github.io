@@ -29,11 +29,6 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 <br/><br/>
 
 
-![](https://WestonAnderson.github.io/files/IPC.png#thumbnail)
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-}
 <img style="float: left;" src="https://WestonAnderson.github.io/files/IPC.png#thumbnail" width:"150px" height:"100px">
 
 
