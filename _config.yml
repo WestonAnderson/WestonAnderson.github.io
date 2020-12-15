@@ -209,7 +209,7 @@ defaults:
       style: dark
     values:
       layout: splash
-      author_profile: false
+      author_profile: true
   # _teaching
   - scope:
       path: ""
