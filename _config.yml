@@ -206,6 +206,7 @@ defaults:
   - scope:
       path: ""
       type: pages
+      style: dark
     values:
       layout: single
       author_profile: false
