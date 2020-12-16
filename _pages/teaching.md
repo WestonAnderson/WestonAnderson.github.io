@@ -28,10 +28,6 @@ Dynamics of Climate Variability and Change: Dr. Alessandra Giannini and Dr. Lisa
 <b>Guest Lecturer – Columbia University Irving Medical Center</b><br/>
 Intro to Global and Population Health (2019, 2020)<br/>
 
-<b>Teaching Assistant - The Johns Hopkins University</b><br/>                            
-Introduction to Environmental Engineering, Dr. Hedy Alavi. (2011)<br/>
-
-
 
 # Course Materials
 Below are course descriptions for courses that I have taught, including the course objectives and course syllabus
