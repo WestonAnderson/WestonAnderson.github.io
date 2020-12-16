@@ -17,19 +17,19 @@ weston [at] iri.columbia.edu</p>
 ---
 ---
 # Teaching Experience
-Faculty – Climate and Society Master’s program, Columbia University, (2020)
-Dynamics of Climate Variability and Change: co-taught with Dr. Alessandra Giannini
+Faculty – Climate and Society Master’s program, Columbia University, (2020)<br/>
+Dynamics of Climate Variability and Change: co-taught with Dr. Alessandra Giannini<br/>
 
-Teaching Assistant - Columbia University
-Regional Climate Dynamics: Dr. Andrew Robertson and Dr. Pietro Ceccato (2016, 2018)
-Dynamics of Climate: Dr. Ron Miller	(2017)
-Dynamics of Climate Variability and Change: Dr. Alessandra Giannini and Dr. Lisa Goddard (2017)
+Teaching Assistant - Columbia University<br/>
+Regional Climate Dynamics: Dr. Andrew Robertson and Dr. Pietro Ceccato (2016, 2018)<br/>
+Dynamics of Climate: Dr. Ron Miller	(2017)<br/>
+Dynamics of Climate Variability and Change: Dr. Alessandra Giannini and Dr. Lisa Goddard (2017)<br/>
 
-Guest Lecturer – Columbia University Irving Medical Center
-Intro to Global and Population Health (2019, 2020)
+Guest Lecturer – Columbia University Irving Medical Center<br/>
+Intro to Global and Population Health (2019, 2020)<br/>
 
-Teaching Assistant - The Johns Hopkins University				                              
-Introduction to Environmental Engineering, Dr. Hedy Alavi. (2011)
+Teaching Assistant - The Johns Hopkins University	<br/>			                              
+Introduction to Environmental Engineering, Dr. Hedy Alavi. (2011)<br/>
 
 
 
