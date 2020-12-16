@@ -39,12 +39,12 @@ This course provides an understanding of the physical workings of the climate sy
 <a href = "https://WestonAnderson.github.io/files/Syllabus 2020 - Dynamics of Climate Variability.pdf">2020 Course Syllabus</a>
 <br/>
 <br/>
-Skills Developed:<br/>	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical understanding of the climate system<br/>	
-    Forecast interpretation<br/>	
-    Climate literacy<br/>	
-    Initial basis to determine suitability of information to society<br/>	
-    Communication of scientific material<br/>	
+<b>Skills Developed:</b><br/>	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical understanding of the climate system<br/>	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Forecast interpretation<br/>	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Climate literacy<br/>	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Initial basis to determine suitability of information to society<br/>	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communication of scientific material<br/>	
 
 
 
