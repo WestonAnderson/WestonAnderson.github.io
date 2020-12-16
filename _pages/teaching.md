@@ -17,7 +17,7 @@ weston [at] iri.columbia.edu</p>
 ---
 ---
 # Teaching Experience
-Faculty – Climate and Society Master’s program, Columbia University, (2020)<br/>
+*Faculty – Climate and Society Master’s program, Columbia University, (2020)*<br/>
 Dynamics of Climate Variability and Change: co-taught with Dr. Alessandra Giannini<br/>
 
 Teaching Assistant - Columbia University<br/>
