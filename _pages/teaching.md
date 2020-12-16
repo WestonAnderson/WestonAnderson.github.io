@@ -35,10 +35,12 @@ Below are course descriptions for courses that I have taught, including the cour
 ### (Climate and Society Master's Program, Columbia University)
 This course provides an understanding of the physical workings of the climate system, and it underpins the goals of the rest of the C+S program. Building on that, students learn through lectures, readings, discussions and exercises, how to interpret climate information like forecasts and observational maps. We cover the physical and methodological basis of forecasts – from weather to climate change – as well as their uncertainties. Students are encouraged to critically assess the suitability of different types of climate information to answer questions of societal interest in discussion and within a group project. Given that climate variability acts on a number of time and space scales, which may be further influenced by man-made climate change, we also address how these aspects of the climate are realized, forecast, interpreted. Solid understanding of the physical system and appropriate usage of climate-related terminology will be emphasized throughout the course.
 <br/>	
+<br/>
 <a href = "https://WestonAnderson.github.io/files/Syllabus 2020 - Dynamics of Climate Variability.pdf">2020 Course Syllabus</a>
-<br/>	
+<br/>
+<br/>
 Skills Developed:<br/>	
-    Physical understanding of the climate system<br/>	
+: Physical understanding of the climate system<br/>	
     Forecast interpretation<br/>	
     Climate literacy<br/>	
     Initial basis to determine suitability of information to society<br/>	
