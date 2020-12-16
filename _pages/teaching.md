@@ -28,14 +28,13 @@ Dynamics of Climate Variability and Change: Dr. Alessandra Giannini and Dr. Lisa
 <b>Guest Lecturer – Columbia University Irving Medical Center</b><br/>
 Intro to Global and Population Health (2019, 2020)<br/>
 
-<b>Teaching Assistant - The Johns Hopkins University</b>	<br/>			                              
+<b>Teaching Assistant - The Johns Hopkins University</b><br/>                            
 Introduction to Environmental Engineering, Dr. Hedy Alavi. (2011)<br/>
 
 
 
 # Course Materials
-Below are links to a set of notes that I’ve developed based on my own courses and study. Although these notes are a work in progress, they represent materials that may be used for students in a classroom setting. I have also included a set of useful papers under each topic.
-
+Below are course descriptions for courses that I have taught, including the course objectives and course syllabus
 ## GR5400 - Dynamics of Climate Variability & Climate Change  
 ### (Climate and Society Master's Program, Columbia University)
 This course provides an understanding of the physical workings of the climate system, and it underpins the goals of the rest of the C+S program. Building on that, students learn through lectures, readings, discussions and exercises, how to interpret climate information like forecasts and observational maps. We cover the physical and methodological basis of forecasts – from weather to climate change – as well as their uncertainties. Students are encouraged to critically assess the suitability of different types of climate information to answer questions of societal interest in discussion and within a group project. Given that climate variability acts on a number of time and space scales, which may be further influenced by man-made climate change, we also address how these aspects of the climate are realized, forecast, interpreted. Solid understanding of the physical system and appropriate usage of climate-related terminology will be emphasized throughout the course.
@@ -52,6 +51,8 @@ Skills Developed:<br/>
 
 
 # Earth Science Notes
+Below are links to a set of notes that I’ve developed based on my own courses and study. Although these notes are a work in progress, they represent materials that may be used for students in a classroom setting. I have also included a set of useful papers under each topic.
+
 ## Climate Dynamics
 Many of these topics relate to those found under the atmospheric dynamics and ocean dynamics sections, so for specifics on ocean or atmosphere systems, see those pages.
 
