@@ -46,7 +46,7 @@ This course provides an understanding of the physical workings of the climate sy
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Initial basis to determine suitability of information to society<br/>	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communication of scientific material<br/>	
 
-
+<br/>	<br/><br/>	<br/>
 
 # Earth Science Notes
 Below are links to a set of notes that I’ve developed based on my own courses and study. Although these notes are a work in progress, they represent materials that may be used for students in a classroom setting. I have also included a set of useful papers under each topic.
