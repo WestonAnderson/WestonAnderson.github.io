@@ -99,13 +99,13 @@ Below are a series of notes that I’ve developed as teaching aides relevant for
 </p>
 
 ### Papers
-Subtropical Anticyclones and Summer Monsoons (Rodwell and Hoskins, 2000) – Rodwell and Hoskins characterize lower troposphere subtropical circulations. In the summer they characterize continental monsoons and oceanic anticyclones. Wintertime circulation is dominated by the zonally averaged circulation interacting with orography.
+<b>Subtropical Anticyclones and Summer Monsoons (Rodwell and Hoskins, 2000)</b> – Rodwell and Hoskins characterize lower troposphere subtropical circulations. In the summer they characterize continental monsoons and oceanic anticyclones. Wintertime circulation is dominated by the zonally averaged circulation interacting with orography.
 
-Nonlinear Axially Symmetric Circulations in a Nearly Inviscid Atmosphere (Held and Hou, 1980) – Held and Hou show how the annual-mean zonal-mean Hadley cell can be explained using conservation of momentum, thermal wind, and radiative convective equilibrium
+<b>Nonlinear Axially Symmetric Circulations in a Nearly Inviscid Atmosphere (Held and Hou, 1980)</b> – Held and Hou show how the annual-mean zonal-mean Hadley cell can be explained using conservation of momentum, thermal wind, and radiative convective equilibrium
 
-An Overview of the North Atlantic Oscillation (Hurrell et al., 2003) – As the title implies, this article is an overview of the North Atlantic Oscillation (NAO), including the dynamics, methods of calculating the index and potential implications for different sectors.
+<b>An Overview of the North Atlantic Oscillation (Hurrell et al., 2003)</b> – As the title implies, this article is an overview of the North Atlantic Oscillation (NAO), including the dynamics, methods of calculating the index and potential implications for different sectors.
 
-A Diagnosis of the seasonally and longitudinally varying midlatitude circulation response to global warming (Simpson et al., 2014) – This paper provides a more nuanced analysis of the often observed poleward-shift of the jet streams as a result of global warming. Simpson et al. find that that in the zonal mean the idea that high-frequency transient eddies will shift the midlatitude storm tracks (and jet streams) poleward is accurate. But in the Northern Hemisphere winter, modifications to stationary eddies tend to force a more complicated picture. The NH winter jet shifts equatorward in the east Pacific and strengthens over the Atlantic.
+<b>A Diagnosis of the seasonally and longitudinally varying midlatitude circulation response to global warming (Simpson et al., 2014)</b> – This paper provides a more nuanced analysis of the often observed poleward-shift of the jet streams as a result of global warming. Simpson et al. find that that in the zonal mean the idea that high-frequency transient eddies will shift the midlatitude storm tracks (and jet streams) poleward is accurate. But in the Northern Hemisphere winter, modifications to stationary eddies tend to force a more complicated picture. The NH winter jet shifts equatorward in the east Pacific and strengthens over the Atlantic.
 
 ## Ocean Dynamics
 Although ocean dynamics is not my main focus, it is inseparable from climate dynamics as a whole. The topics and papers below are therefore chosen from the perspective of a climate scientist
@@ -121,7 +121,7 @@ Although ocean dynamics is not my main focus, it is inseparable from climate dyn
 
 
 ### Papers
-Wind-driven currents in a baroclinic ocean; with application to the equatorial currents of the eastern Pacific – (Sverdup, 1947) – Here Sverdrup demonstrates how wind-driven currents lead to the mean-state ocean circulations such as the equatorial countercurrent, which flows eastward against the trade winds.
+<b>Wind-driven currents in a baroclinic ocean; with application to the equatorial currents of the eastern Pacific – (Sverdup, 1947)</b> – Here Sverdrup demonstrates how wind-driven currents lead to the mean-state ocean circulations such as the equatorial countercurrent, which flows eastward against the trade winds.
 
 ## Biogeoscience
 As a climate scientist I am no expert on agronomy or plant physiology, but as a scientist working on how climate variability affects food security it’s important to understand how the climate affects vegetation, and how vegetation may in turn influence the climate. Below are a brief set of notes covering topics such as plant-water relations, nutrient cycling, the influence of rising CO2  on vegetation and how large-scale dynamics may affect large-scale vegetation patterns.
@@ -147,9 +147,9 @@ Bootstrapping (conventional and phase randomization)<br/>
 </p>
 
 ### Papers
-An Intercomparison of Methods for Finding Coupled Patterns in Climate Data (Bretherton et al., 1992) – Bretherton and his coauthors discuss the relative merits of different methods used to extract modes of variability from noisy data. They focus on principal component analysis (PCA), canonical correlation analysis (CCA), and singular value decomposition of a covariance matrix (SVD). This is a classic paper for understanding the tools that are often used in climate science and their potential limitations
+<b>An Intercomparison of Methods for Finding Coupled Patterns in Climate Data (Bretherton et al., 1992)</b> – Bretherton and his coauthors discuss the relative merits of different methods used to extract modes of variability from noisy data. They focus on principal component analysis (PCA), canonical correlation analysis (CCA), and singular value decomposition of a covariance matrix (SVD). This is a classic paper for understanding the tools that are often used in climate science and their potential limitations
 
-Detecting Causality in Complex Ecosystems (Sugihara et al., 2012) – Sugihara and colleagues outline what Lorenz attractors are, and how they can be used to make predictions in coupled, non-linear, chaotic systems. They include links to some videos explaining the material that are tremendously helpful
+<b>Detecting Causality in Complex Ecosystems (Sugihara et al., 2012)</b> – Sugihara and colleagues outline what Lorenz attractors are, and how they can be used to make predictions in coupled, non-linear, chaotic systems. They include links to some videos explaining the material that are tremendously helpful
 
 
 # Outreach
