@@ -40,7 +40,7 @@ This course provides an understanding of the physical workings of the climate sy
 <br/>
 <br/>
 Skills Developed:<br/>	
-: Physical understanding of the climate system<br/>	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical understanding of the climate system<br/>	
     Forecast interpretation<br/>	
     Climate literacy<br/>	
     Initial basis to determine suitability of information to society<br/>	
