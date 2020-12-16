@@ -8,9 +8,9 @@ author_profile: true
 ---
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
-Faculty - Climate and Society Master's Program <br/>
 Earth Institute Postdoctoral Research Fellow<br/>
 The International Research Institute for Climate and Society (IRI)<br/>
+Faculty - Climate and Society Master's Program <br/>
 Columbia University <br/>
 weston [at] iri.columbia.edu</p>
 
