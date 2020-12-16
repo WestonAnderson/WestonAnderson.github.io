@@ -49,7 +49,7 @@ This course provides an understanding of the physical workings of the climate sy
 <br/>	<br/><br/>	<br/>
 
 # Earth Science Notes
-Below are links to a set of notes that I’ve developed based on my own courses and study. Although these notes are a work in progress, they represent materials that may be used for students in a classroom setting. I have also included a set of useful papers under each topic.
+Below are links to a set of notes that I’ve developed based on my own courses and study. These notes are a work in progress, and are not formal course material, but I have found them helpful and I hope you may as well. I have also included a set of useful papers under each topic.
 
 ## Climate Dynamics
 Many of these topics relate to those found under the atmospheric dynamics and ocean dynamics sections, so for specifics on ocean or atmosphere systems, see those pages.
