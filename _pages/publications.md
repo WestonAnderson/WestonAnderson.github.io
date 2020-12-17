@@ -17,10 +17,9 @@ Anderson, W., Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., 
 
 Anderson, W.B.\*, and Lesk, C\*: Trends in concurrent heat and drought over global croplands (submitted)
 
-Hernandez, J.N., Anderson, W., Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A.: Fostering interdisciplinary research careers to solve complex sustainability crises. (submitted)
-
 Peer Reviewed
 -=====
+Hernandez, J.N., Anderson, W., Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A.: Fostering interdisciplinary research careers to solve complex sustainability crises. (accepted, Nature Sustainability)
 
 Singh, J., Ashfaq, M., Skinner, C., Anderson, W.B., Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability (accepted, npj Climate and Atmospheric Science)
 
