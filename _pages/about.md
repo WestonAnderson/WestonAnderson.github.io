@@ -27,8 +27,8 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 
 
-<img src="https://WestonAnderson.github.io/images/scholar_citations_WBAnderson.png" alt="IPC" title="IPC in Africa" width="400" height="300"  style="float: left;"/>
-<img src="https://WestonAnderson.github.io/images/scholar_coauth_WBAnderson.png" alt="IPC" title="IPC in Africa" width="300" height="300"  style="float: right;"/>
+<img src="https://WestonAnderson.github.io/images/scholar_citations_WBAnderson.png" alt="cites" title="citations" width="600" height="400"/>
+<img src="https://WestonAnderson.github.io/images/scholar_coauth_WBAnderson.png" alt="auths" title="co-authors" width="500" height="500"/>
  
 <br/><br/>
  
