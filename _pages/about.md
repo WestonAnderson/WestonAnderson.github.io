@@ -32,8 +32,6 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
  
 <br/><br/>
  
-<br/><br/>
-
 
 ## Food security crises in Africa 
 
