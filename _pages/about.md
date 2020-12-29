@@ -27,9 +27,13 @@ I’m an agroclimatologist studying the dynamics of climate variability and its 
 
 
 
-<img src="https://WestonAnderson.github.io/images/scholar_citations_WBAnderson.png" alt="IPC" title="IPC in Africa" width="300" height="200"  style="float: left;"/>
-<img src="https://WestonAnderson.github.io/images/scholar_coauth_WBAnderson.png" alt="IPC" title="IPC in Africa" width="300" height="300"  style="float: right;"/>
+<img src="https://WestonAnderson.github.io/images/scholar_citations_WBAnderson.png" alt="IPC" title="IPC in Africa" width="200" height="150"  style="float: left;"/>
+<img src="https://WestonAnderson.github.io/images/scholar_coauth_WBAnderson.png" alt="IPC" title="IPC in Africa" width="200" height="200"  style="float: right;"/>
  
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ## Food security crises in Africa 
 
