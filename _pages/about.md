@@ -25,6 +25,12 @@ weston [at] iri.columbia.edu</p>
 I’m an agroclimatologist studying the dynamics of climate variability and its relation to food security using reanalysis products, remote  sensing observations and model simulations. I’ve recently been working on how global-scale modes of climate variability pose a risk to major agricultural production regions. I am currently an [Earth Institute Fellow](earth.columbia.edu/articles/view/58#Anderson) working on climate and food security with [Lisa Goddard](https://iri.columbia.edu/contact/staff-directory/lisa-goddard/) and  [Walter Baethgen](https://iri.columbia.edu/contact/staff-directory/walter-baethgen/) at the [IRI](https://iri.columbia.edu/). For more information on my professional activities and my research see my Publications page, [Google Scholar](https://scholar.google.com/citations?user=RP8M1g8AAAAJ&hl=en), or see my [CV](https://WestonAnderson.github.io/files/Weston_Buckley_Anderson_CV_2020.pdf)
 <br/><br/>
 
+
+
+<img src="https://WestonAnderson.github.io/images/scholar_citations_WBAnderson.png" alt="IPC" title="IPC in Africa" width="500" height="200"  style="float: left;"/>
+<img src="https://WestonAnderson.github.io/images/scholar_coauth_WBAnderson.png" alt="IPC" title="IPC in Africa" width="500" height="200"  style="float: right;"/>
+ 
+
 ## Food security crises in Africa 
 
 <img src="https://WestonAnderson.github.io/files/IPC.png" alt="IPC" title="IPC in Africa" width="500" height="200"  style="float: left;"/>
