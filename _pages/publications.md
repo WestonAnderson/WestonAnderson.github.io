@@ -35,15 +35,15 @@ Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020):
 
 Anderson, W.B., Seager, R., Baethgen, W., Cane, M, and You, L. (2019): [Synchronous crop failures and climate-forced yield variability](https://advances.sciencemag.org/content/5/7/eaaw1976). Science Advances, 5 (7), eaaw1976.
 
-Anderson, W.B., Seager, R., Baethgen, W., and Cane, M (2018) : Trans-Pacific ENSO teleconnections pose a correlated risk to agriculture. Agriculture and Forest Meteorology, 262: 298-309, doi:10.1016/j.agrformet.2018.07.023 [PDF](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M (2018) : [Trans-Pacific ENSO teleconnections pose a correlated risk to agriculture](https://www.sciencedirect.com/science/article/abs/pii/S0168192318302454). Agriculture and Forest Meteorology, 262: 298-309, doi:10.1016/j.agrformet.2018.07.023 [PDF](https://WestonAnderson.github.io/files/Anderson2018transpacific.pdf)
 
 Xie, H, Perez, N, Anderson W.B., Ringler, C. and You, L. (2018): Impact of irrigation development strategies in Sub-Saharan African dryland on food security and import dependency in the region. Water International
 
-Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2017): Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation. Agriculture and Forest Meteorology, 239, 151-165 [PDF](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2017): [Crop production variability in North and South America forced by life-cycles of the El Niño Southern Oscillation](https://www.sciencedirect.com/science/article/abs/pii/S0168192317301132). Agriculture and Forest Meteorology, 239, 151-165 [PDF](https://WestonAnderson.github.io/files/Anderson2017crop.pdf)
 
-Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2016): Life-cycles of agriculturally relevant ENSO teleconnections in North and South America. Int. J. Climatol, doi:10.1002/joc.4916 [PDF](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
+Anderson, W.B., Seager, R., Baethgen, W., and Cane, M, (2016): [Life-cycles of agriculturally relevant ENSO teleconnections in North and South America](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.4916). Int. J. Climatol, doi:10.1002/joc.4916 [PDF](https://WestonAnderson.github.io/files/Anderson2016lifecycles.pdf)
 
-Anderson, W.B., You, L., Wood, S., Wood-Sichra, U., Wu, W (2015): An analysis of methodological and spatial differences in global cropping systems models and maps. Glob. Ecol. and Biogeog. doi: 10.1111/geb.12243 [PDF](https://WestonAnderson.github.io/files/Anderson2014maps.pdf)
+Anderson, W.B., You, L., Wood, S., Wood-Sichra, U., Wu, W (2015): [An analysis of methodological and spatial differences in global cropping systems models and maps](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12243). Glob. Ecol. and Biogeog. doi: 10.1111/geb.12243 [PDF](https://WestonAnderson.github.io/files/Anderson2014maps.pdf)
 
 Li, Z., Liu, X., Anderson, W.B., Yang, P., Wu, W., Tang, H. and You, L. (2015): Chinese Rice Production Area Adaptations to Climate Changes, 1949–2010. Environmental Science & Technology, doi: 10.1021/es505624x [PDF](https://WestonAnderson.github.io/files/Li2015Rice.pdf)
 
