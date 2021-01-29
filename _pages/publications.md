@@ -19,7 +19,7 @@ Anderson, W.B.\*, and Lesk, C\*: Trends in concurrent heat and drought over glob
 
 Peer Reviewed
 -=====
-Hernandez, J.N., Anderson, W., Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A.: Supporting interdisciplinary careers for sustainability. (accepted, Nature Sustainability)
+Hernandez, J.N., Anderson, W., Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A. (2021): [Supporting interdisciplinary careers for sustainability](https://www.nature.com/articles/s41893-020-00679-y). 
 
 Singh, J., Ashfaq, M., Skinner, C., Anderson, W.B., Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability (accepted, npj Climate and Atmospheric Science)
 
