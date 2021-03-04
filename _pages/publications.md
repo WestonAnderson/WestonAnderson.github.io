@@ -13,7 +13,7 @@ author_profile: true
 
 In press or submitted
 -=====
-Anderson, W., Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K.: Characterizing the effect of drought, conflict, and locusts on food security in Africa. (submitted)
+*Anderson, W.*, Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K.: Characterizing the effect of drought, conflict, and locusts on food security in Africa. (submitted)
 
 Anderson, W.B.\*, and Lesk, C\*: Trends in concurrent heat and drought over global croplands (submitted)
 
