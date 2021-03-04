@@ -12,13 +12,14 @@ author_profile: true
 \* denotes joint first co-authorship
 
 # In press or submitted
--=====
+<br>
 **Anderson, W.B.**, Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K.: Characterizing the effect of drought, conflict, and locusts on food security in Africa. (submitted)
 
 **Anderson, W.B.**\*, and Lesk, C\*: Trends in concurrent heat and drought over global croplands (submitted)
+<br><br>
 
 # Peer Reviewed
--=====
+<br>
 Hernandez, J.N., **Anderson, W.B.**, Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A. (2021): [Supporting interdisciplinary careers for sustainability](https://www.nature.com/articles/s41893-020-00679-y). Nature Sustainability. doi: https://doi.org/10.1038/s41893-020-00679-y
 
 Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability (accepted, npj Climate and Atmospheric Science)
@@ -52,10 +53,10 @@ Li, Z., Liu, X., **Anderson, W.B.**, Yang, P., Wu, W., Tang, H. and You, L. (201
 Nkonya, E. and **Anderson, W.B.** (2014): Exploiting provisions of land economic productivity without degrading its natural capital, J. Arid Environ., doi:10.1016/j.jaridenv.2014.05.012.
 
 **Anderson, W.B.**, Zaitchik, B.F., Hain, C.R., Anderson, M.C., Yilmaz, M.T., Mecikalski, J., and Schultz, L. (2012) Towards an integrated soil moisture drought monitor for East Africa, Hydrol. Earth Syst. Sci., 16, 2893-2913, doi:10.5194/hess-16-2893-2012.
-
+<br><br>
 
 # Book chapters
--=====
+<br>
 
 Walker, T., Ward, C., Torquebiau, R., Xie, H., **Anderson, W.B**, Perez, N., Ringler, C., You, L., Cenacchi, N., Hash, T. and Rattunde, F., (2016) Agriculture: More Water and Better Farming for Improved Food Security. In “Confronting Drought in Africa's Drylands: Opportunities for Enhancing Resilience”, pp.115-136. doi:10.1596/978-1-4648-0817-3_ch7
 
@@ -64,9 +65,10 @@ Nkonya, E., **Anderson, W.B.**, Kato, E., Koo, J., Mirzabaev, A., von Braun, J.,
 Nkonya, E., Srinivasan, R., **Anderson, W.B**, and Kato, E. (2016). Economics of land degradation and improvement in Bhutan. In Economics of Land Degradation and Improvement–A Global Assessment for Sustainable Development (pp. 327-383). Springer International Publishing.
 
 **Anderson, W.B.**, and Johnson, T. (2016) Evaluating Global Land Degradation Using Ground-Based Measurements and Remote Sensing. In Economics of Land Degradation and Improvement–A Global Assessment for Sustainable Development (pp. 327-383). Springer International Publishing.
+<br><br>
 
 # Other publications
--=====
+<br>
 
 Nielsen, T., Schünemann, F., McNulty, E., Zeller, M., Nkonya, E., Kato, E., Meyer, S., **Anderson, W.B.**, Zhu, T., Queface, A., and Mapemba, L., (2015): The Food-Energy-Water Security Nexus: Definitions, Policies, and Methods in an Application to Malawi and Mozambique. IFPRI Discussion Paper 1480. doi: 10.2139/ssrn.2740663
 
