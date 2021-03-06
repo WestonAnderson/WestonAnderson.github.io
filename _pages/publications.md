@@ -24,7 +24,7 @@ Ivanovich, C., **Anderson, W.B.**, Horton, R., Raymond, C., and Sobel, H: Influe
 
 # Peer Reviewed
 <br>
-**Anderson, W.B.**\*, and Lesk, C\* (2021): [Trends in concurrent heat and drought over global croplands](https://iopscience.iop.org/article/10.1088/1748-9326/abeb35/meta). (accepted, Environmental Research Letters)
+Lesk, C\* and **Anderson, W.B.**\*, (2021): [Trends in concurrent heat and drought over global croplands](https://iopscience.iop.org/article/10.1088/1748-9326/abeb35/meta). (accepted, Environmental Research Letters)
 
 Hernandez, J.N., **Anderson, W.B.**, Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A. (2021): [Supporting interdisciplinary careers for sustainability](https://www.nature.com/articles/s41893-020-00679-y). Nature Sustainability. doi: https://doi.org/10.1038/s41893-020-00679-y
 
