@@ -15,14 +15,21 @@ author_profile: true
 <br>
 **Anderson, W.B.**, Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K.: Characterizing the effect of drought, conflict, and locusts on food security in Africa. (submitted)
 
-**Anderson, W.B.**\*, and Lesk, C\*: Trends in concurrent heat and drought over global croplands (submitted)
-<br><br>
+Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Mishra, V., and Singh, D. Future increases in El Nino and La Nina events increase the likelihood of simultaneous droughts across multiple global regions (in prep)
+
+Heino, M., Kinnunen, P., **Anderson, W.B.**, Ray, D., Puma, M., Varis, O., Kummu, M. Increased probability of crop yield reducing hot and dry weather extremes (in prep)
+
+Ivanovich, C., **Anderson, W.B.**, Horton, R., Raymond, C., and Sobel, H: Influence of the Madden-Julian Oscillation on Extreme Wet Bulb Temperature (in prep)
+
 
 # Peer Reviewed
 <br>
+**Anderson, W.B.**\*, and Lesk, C\*: [Trends in concurrent heat and drought over global croplands](https://iopscience.iop.org/article/10.1088/1748-9326/abeb35/meta). (accepted, Environmental Research Letters)
+<br><br>
+
 Hernandez, J.N., **Anderson, W.B.**, Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A. (2021): [Supporting interdisciplinary careers for sustainability](https://www.nature.com/articles/s41893-020-00679-y). Nature Sustainability. doi: https://doi.org/10.1038/s41893-020-00679-y
 
-Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Singh, D.: Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability (accepted, npj Climate and Atmospheric Science)
+Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Singh, D.: [Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability](https://doi.org/10.1038/s41612-021-00161-2). npj Climate and Atmospheric Science. 4, 7. https://doi.org/10.1038/s41612-021-00161-2
 
 Jong, B.T, Ting, M., Seager, R., and **Anderson, W.B.** (2020): [ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0701.1). Journal of Climate [PDF](https://WestonAnderson.github.io/files/2020-Jong.pdf)
 
