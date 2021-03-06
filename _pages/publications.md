@@ -24,11 +24,11 @@ Ivanovich, C., **Anderson, W.B.**, Horton, R., Raymond, C., and Sobel, H: Influe
 
 # Peer Reviewed
 <br>
-**Anderson, W.B.**\*, and Lesk, C\*: [Trends in concurrent heat and drought over global croplands](https://iopscience.iop.org/article/10.1088/1748-9326/abeb35/meta). (accepted, Environmental Research Letters)
+**Anderson, W.B.**\*, and Lesk, C\* (2021): [Trends in concurrent heat and drought over global croplands](https://iopscience.iop.org/article/10.1088/1748-9326/abeb35/meta). (accepted, Environmental Research Letters)
 
 Hernandez, J.N., **Anderson, W.B.**, Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A. (2021): [Supporting interdisciplinary careers for sustainability](https://www.nature.com/articles/s41893-020-00679-y). Nature Sustainability. doi: https://doi.org/10.1038/s41893-020-00679-y
 
-Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Singh, D.: [Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability](https://doi.org/10.1038/s41612-021-00161-2). npj Climate and Atmospheric Science. 4, 7. https://doi.org/10.1038/s41612-021-00161-2
+Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Singh, D. (2021): [Amplified Risk of Concurrent Drought Events with Co-occurring Modes of Natural Variability](https://doi.org/10.1038/s41612-021-00161-2). npj Climate and Atmospheric Science. 4, 7. https://doi.org/10.1038/s41612-021-00161-2
 
 Jong, B.T, Ting, M., Seager, R., and **Anderson, W.B.** (2020): [ENSO teleconnections and impacts on US summertime temperature during multi-year La Niña life-cycle](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0701.1). Journal of Climate [PDF](https://WestonAnderson.github.io/files/2020-Jong.pdf)
 
