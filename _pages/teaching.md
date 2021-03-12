@@ -17,8 +17,9 @@ weston [at] iri.columbia.edu</p>
 ---
 ---
 # Teaching Experience
-<b>Faculty – Climate and Society Master’s program, Columbia University, (2020)</b><br/>
-Dynamics of Climate Variability and Change: co-taught with Dr. Alessandra Giannini<br/>
+<b>Faculty – Climate and Society Master’s program, Columbia University </b><br/>
+Dynamics of Climate Variability and Change (Fall 2020): co-taught with Dr. Alessandra Giannini<br/>
+Threats to Urban Food Security (Spring 2021): reading seminar, co-taught with Dr. Cascade Tuholske<br/>
 
 <b>Teaching Assistant - Columbia University</b><br/>
 Regional Climate Dynamics: Dr. Andrew Robertson and Dr. Pietro Ceccato (2016, 2018)<br/>
