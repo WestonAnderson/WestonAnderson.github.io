@@ -8,12 +8,10 @@ author_profile: true
 ---
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
-Earth Institute Postdoctoral Research Fellow<br/>
-The International Research Institute for Climate and Society (IRI)<br/>
-Lecturer - Climate and Society Master's Program <br/>
-Columbia University <br/>
-weston [at] iri.columbia.edu</p>
-
+Assistant Research Scientist<br/>
+University of Maryland, Earth System Science Interdisciplinary Center<br/>
+NASA, Earth Sciences Division<br/>
+weston.anderson [at] nasa.gov</p>
 ---
 ---
 # Teaching Experience
