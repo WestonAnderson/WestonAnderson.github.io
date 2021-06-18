@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ""
-permalink: /In the media/
+title: "In the media"
+permalink: /In_the_media/
 author_profile: true
 ---
 ---
