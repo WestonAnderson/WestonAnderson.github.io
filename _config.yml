@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  In the media:
+  In_the_media:
     output: true
     permalink: /:collection/:path/
 #  portfolio:
@@ -231,10 +231,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-    # _In the media
+    # _In_the_media
   - scope:
       path: ""
-      type: In the media
+      type: In_the_media
     values:
       layout: single
       author_profile: true
