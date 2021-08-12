@@ -37,7 +37,7 @@ I’m a climate scientist studying the dynamics of climate variability and its r
 Conflict, drought, and locusts have been leading concerns for African food security in recent years, but the relative importance and spatiotemporal scales of crises resulting from each hazard is poorly characterized. Here we use continuous, subnational data from Sub-Saharan Africa to characterize how food crises differ according to livelihood strategy in response to each hazard. We find that when exposed to drought, pastoralists experienced more widespread, severe, and long-lasting food crises compared to those in agricultural zones. From 2009-2013 drought was the primary trigger of food security crises in all non-riverine zones; after 2013 conflict-related food security crises become prevalent. The few confirmed famines coincided with both conflict and drought. 
 <br/>
 <br/>
-Anderson, W., Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K.: Characterizing the effect of drought, conflict, and locusts on food security in Africa. (submitted)
+**Anderson, W.B.**, Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K. (2021): [Violent conflict exacerbated drought-related food insecurity between 2009 and 2019 in sub-Saharan Africa](https://www.nature.com/articles/s43016-021-00327-4). DOI: 10.1038/s43016-021-00327-4. [PDF](https://WestonAnderson.github.io/files/Anderson2021_AfricaFoodSecurity.pdf)
 <br/>
 <br/>
 
