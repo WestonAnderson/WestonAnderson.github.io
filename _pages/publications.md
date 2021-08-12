@@ -13,8 +13,6 @@ author_profile: true
 
 # In press or submitted
 <br>
-**Anderson, W.B.**, Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K.: Characterizing the effect of drought, conflict, and locusts on food security in Africa. (submitted)
-
 Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Mishra, V., and Singh, D. Future increases in El Nino and La Nina events increase the likelihood of simultaneous droughts across multiple global regions (in prep)
 
 Heino, M., Kinnunen, P., **Anderson, W.B.**, Ray, D., Puma, M., Varis, O., Kummu, M. Increased probability of crop yield reducing hot and dry weather extremes (in prep)
@@ -24,6 +22,8 @@ Ivanovich, C., **Anderson, W.B.**, Horton, R., Raymond, C., and Sobel, H: Influe
 
 # Peer Reviewed
 <br>
+**Anderson, W.B.**, Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K. (2021): [Violent conflict exacerbated drought-related food insecurity between 2009 and 2019 in sub-Saharan Africa](https://www.nature.com/articles/s43016-021-00327-4). DOI: 10.1038/s43016-021-00327-4. [PDF](https://WestonAnderson.github.io/files/Anderson2021_AfricaFoodSecurity.pdf)
+
 Lesk, C\* and **Anderson, W.B.**\*, (2021): [Trends in concurrent heat and drought over global croplands](https://iopscience.iop.org/article/10.1088/1748-9326/abeb35/meta). (accepted, Environmental Research Letters)
 
 Hernandez, J.N., **Anderson, W.B.**, Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A. (2021): [Supporting interdisciplinary careers for sustainability](https://www.nature.com/articles/s41893-020-00679-y). Nature Sustainability. doi: https://doi.org/10.1038/s41893-020-00679-y
