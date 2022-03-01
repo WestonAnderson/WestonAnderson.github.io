@@ -23,13 +23,6 @@ I’m a climate scientist studying the dynamics of climate variability and its r
 <br/><br/>
 
 
-
-%<img src="https://WestonAnderson.github.io/images/scholar_citations_WBAnderson.png" alt="cites" title="citations" width="350" height="200" style="left;"/>
-%<img src="https://WestonAnderson.github.io/images/scholar_coauth_WBAnderson.png" alt="auths" title="co-authors" width="300" height="300" style="right;"/>
- 
-<br/><br/>
- 
-
 ## Food security crises in Africa 
 
 <img src="https://WestonAnderson.github.io/files/IPC.png" alt="IPC" title="IPC in Africa" width="500" height="200"  style="float: left;"/>
@@ -41,7 +34,7 @@ Conflict, drought, and locusts have been leading concerns for African food secur
 <br/>
 <br/>
 
-## The Madden-Julian Oscillation and food security
+## The Madden-Julian Oscillation and crop yields
 
 <img src="https://WestonAnderson.github.io/images/MJO_yld_tele.png" alt="IPC" title="IPC in Africa" width="500" height="500"  style="float: left;"/>
   
@@ -57,7 +50,7 @@ Anderson, W.B., Muñoz, Á.G., Goddard, L, Baethgen, W., and Chourio, X. (2020):
 <br/>
 <br/>
 
-## Synchronous crop failures and climate-forced production variability 
+## Simultaneous crop failures and climate-forced production variability 
 
 
 <img src="https://WestonAnderson.github.io/images/SynchronousFailures.png" alt="ENSO" title="ENSO" width="500" height="400"  style="float: left;"/>
