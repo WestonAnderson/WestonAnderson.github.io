@@ -18,23 +18,23 @@ Heino, M., Kinnunen, P., **Anderson, W.B.**, Ray, D., Puma, M., Varis, O., Kummu
 
 # Peer Reviewed
 <br>
-Lesk, C., **Anderson, W.**, Rigden, A., Coast, O., Jägermeyr, J., McDermid, S., Davis, K.F. and Konar, M., 2022. Compound heat and moisture extreme impacts on global crop yields under climate change. Nature Reviews Earth & Environment, 3(12), pp.872-889. [PDF](https://WestonAnderson.github.io/files/2022 - Lesk et al. - Review of compound climate extremes.pdf)
+Lesk, C., **Anderson, W.**, Rigden, A., Coast, O., Jägermeyr, J., McDermid, S., Davis, K.F. and Konar, M., 2022. Compound heat and moisture extreme impacts on global crop yields under climate change. Nature Reviews Earth & Environment, 3(12), pp.872-889. [PDF](https://WestonAnderson.github.io/files/2022_Lesk_review.pdf)
 
-Reed, C., **Anderson, W.**, Kruczkiewicz, A., Nakamura, J., Gallo, D., Seager, R., & McDermid, S. S. (2022). The impact of flooding on food security across Africa. Proceedings of the National Academy of Sciences, 119(43), e2119399119. [PDF](https://WestonAnderson.github.io/files/2022 - Reed - flooding and food security in Africa.pdf)
+Reed, C., **Anderson, W.**, Kruczkiewicz, A., Nakamura, J., Gallo, D., Seager, R., & McDermid, S. S. (2022). The impact of flooding on food security across Africa. Proceedings of the National Academy of Sciences, 119(43), e2119399119. [PDF](https://WestonAnderson.github.io/files/2022_Reed_flooding.pdf)
 
-Zhang, T., He, Y., DePauw, R., Jin, Z., Garvin, D., Yue, X., **Anderson, W.**, Li, T., Dong, X., Zhang, T. and Yang, X., 2022. Climate change may outpace current wheat breeding yield improvements in North America. Nature communications, 13(1), pp.1-9. [PDF](https://WestonAnderson.github.io/files/2022 - Zhang - wheat breeding pace.pdf)
+Zhang, T., He, Y., DePauw, R., Jin, Z., Garvin, D., Yue, X., **Anderson, W.**, Li, T., Dong, X., Zhang, T. and Yang, X., 2022. Climate change may outpace current wheat breeding yield improvements in North America. Nature communications, 13(1), pp.1-9. [PDF](https://WestonAnderson.github.io/files/2022_Zhang_wheat_breeding_pace.pdf)
 
 Zhang, T., van der Wiel, K., Wei, T., Screen, J., Yue, X., Zheng, B., Selten, F., Bintanja, R., **Anderson, W.**, Blackport, R. and Glomsrød, S., 2022. Increased wheat price spikes and larger economic inequality with 2° C global warming. One Earth, 5(8), pp.907-916.
 
 Mehrabi, Z., Delzeit, R., Ignaciuk, A., Levers, C., Braich, G., Bajaj, K., Amo-Aidoo, A., **Anderson, W.**, Balgah, R.A., Benton, T.G. and Chari, M.M., (2022). [Research priorities for global food security under extreme events](https://www.sciencedirect.com/science/article/pii/S2590332222003293). One Earth, 5(7), pp.756-766. 
 
-Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Mishra, V., and Singh, D. Enhanced risk of concurrent regional droughts with increased ENSO variability and warming. Nature Climate Change, 12(2), 163-170. [PDF](https://WestonAnderson.github.io/files/2021 - Singh - concurrent drought co-occuring climate modes.pdf)
+Singh, J., Ashfaq, M., Skinner, C., **Anderson, W.B.**, Mishra, V., and Singh, D. Enhanced risk of concurrent regional droughts with increased ENSO variability and warming. Nature Climate Change, 12(2), 163-170. [PDF](https://WestonAnderson.github.io/files/2021_Singh_concurrent.pdf)
 
-Ivanovich, C., **Anderson, W.B.**, Horton, R., Raymond, C., and Sobel, H: The Influence of Intraseasonal Oscillations on Humid Heat in the Persian Gulf and South Asia. Journal of Climate, 1-48. [PDF](https://WestonAnderson.github.io/files/2022 - Ivanovich - MJO wet bulb.pdf)
+Ivanovich, C., **Anderson, W.B.**, Horton, R., Raymond, C., and Sobel, H: The Influence of Intraseasonal Oscillations on Humid Heat in the Persian Gulf and South Asia. Journal of Climate, 1-48. [PDF](https://WestonAnderson.github.io/files/2022_Ivanovich_MJO.pdf)
 
 **Anderson, W.B.**, Taylor, C., McDermid, S., Schlenker, W., Seager, R., Nébié, E., Cottier, F., de Sherbinin, A., Mendeloff D., Markey, K. (2021): [Violent conflict exacerbated drought-related food insecurity between 2009 and 2019 in sub-Saharan Africa](https://www.nature.com/articles/s43016-021-00327-4). DOI: 10.1038/s43016-021-00327-4. [PDF](https://WestonAnderson.github.io/files/Anderson2021_AfricaFoodSecurity.pdf)
 
-Lesk, C\* and **Anderson, W.B.**\*, (2021): [Decadal variability modulates trends in concurrent heat and drought over global croplands](https://iopscience.iop.org/article/10.1088/1748-9326/abeb35/meta). Environmental Research Letters, 16(5), p.055024. [PDF](https://WestonAnderson.github.io/files/2021 - Lesk + Anderson - Decadal Ag Exposure.pdf)
+Lesk, C\* and **Anderson, W.B.**\*, (2021): [Decadal variability modulates trends in concurrent heat and drought over global croplands](https://iopscience.iop.org/article/10.1088/1748-9326/abeb35/meta). Environmental Research Letters, 16(5), p.055024. [PDF](https://WestonAnderson.github.io/files/2021_Lesk_decadal.pdf)
 
 Hernandez, J.N., **Anderson, W.B.**, Bridges, A., Fernandez, M.P., Hansen, W., Nebie, E., and Stock., A. (2021): [Supporting interdisciplinary careers for sustainability](https://www.nature.com/articles/s41893-020-00679-y). Nature Sustainability. doi: https://doi.org/10.1038/s41893-020-00679-y
 
