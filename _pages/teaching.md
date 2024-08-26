@@ -8,10 +8,9 @@ author_profile: true
 ---
 
 <p align="center"><b>Weston Buckley Anderson (he/him)</b><br/>
-Assistant Research Scientist<br/>
-University of Maryland, Earth System Science Interdisciplinary Center<br/>
-NASA, Earth Sciences Division<br/>
-weston.anderson [at] nasa.gov</p>
+Assistant Research Professor<br/>
+University of Maryland, Department of Geographical Sciences<br/>
+weston [at] umd.edu</p>
 
 ---
 ---
